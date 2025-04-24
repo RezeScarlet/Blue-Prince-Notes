@@ -1,7 +1,7 @@
 # O que fazer?
  - [ ] Chamber of Mirrors
  - [ ] Final Exam (Todas Classroom + 9ª Classroom)
- - [ ] Acender a capela
+ - [x] Acender a capela -> Cofrinho que contempla todos os dinheiros perdidos na chapel
  - [ ] Quebrar as paredes
 	- [ ] Greenhouse;
 	- [ ] Secret Garden;
