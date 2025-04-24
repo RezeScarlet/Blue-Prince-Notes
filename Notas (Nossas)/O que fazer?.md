@@ -14,3 +14,12 @@
 	- [ ] 6
 	- [ ] 7
 	- [ ] 8
+- [ ] Criar todos os itens
+	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
+	- [x] Tocha Gamer (Metal Detector + Magnifying Glass)
+	- [x] Detector de Itens (Metal Detector + Compass)
+- [ ] Blackbridge Grotto
+	- [ ] Admin Key
+	- [ ] Pecinha eletrônica
+	- [ ] ![[Blackbridge_Grotto_1.png]]
+- [ ] 
