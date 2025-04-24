@@ -22,4 +22,7 @@
 	- [ ] Admin Key
 	- [ ] Pecinha eletrônica
 	- [ ] ![[Blackbridge_Grotto_1.png]]
-- [ ] 
+- [ ] Ladyship's Diary
+	- [ ] Como que dorme
+	- [ ] ![[9.jpg]] Interagir com porta invisível/secreta???
+- [ ] Aprender Erajan
