@@ -98,16 +98,16 @@
       "styleAttributes": {
       },
       "toNode": "af8b251e7d0c3892",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
-      "fromNode": "d856c2eca8272b54",
+      "fromNode": "2aa54816d9d34ad2",
       "fromSide": "left",
-      "id": "ebcf9ebf65c946d1",
+      "id": "baf4444329b10d09",
       "styleAttributes": {
       },
       "toNode": "af8b251e7d0c3892",
-      "toSide": "left"
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -182,17 +182,6 @@
       "y": -794
     },
     {
-      "file": "Music Sheets/7.png",
-      "height": 226,
-      "id": "e9ea0ac916fcb6d0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 660,
-      "y": -794
-    },
-    {
       "file": "Music Sheets/1.png",
       "height": 226,
       "id": "b676644ef7dcf71f",
@@ -215,6 +204,17 @@
       "y": -794
     },
     {
+      "file": "Music Sheets/8.png",
+      "height": 226,
+      "id": "525e081413ca7b50",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -794
+    },
+    {
       "file": "Music Sheets/4.png",
       "height": 226,
       "id": "a0897c250f1e303e",
@@ -226,15 +226,15 @@
       "y": -1060
     },
     {
-      "file": "Music Sheets/8.png",
+      "file": "E-Mails/Office_01-11-1993.png",
       "height": 226,
-      "id": "525e081413ca7b50",
+      "id": "af8b251e7d0c3892",
       "styleAttributes": {
       },
       "type": "file",
       "width": 400,
-      "x": 1100,
-      "y": -794
+      "x": 1649,
+      "y": -1079
     },
     {
       "color": "4",
@@ -263,15 +263,28 @@
       "y": -520
     },
     {
-      "file": "E-Mails/Office_01-11-1993.png",
+      "height": 60,
+      "id": "c003ea1e274b8268",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": " Find among the white trees under two stones",
+      "type": "text",
+      "width": 272,
+      "x": 828,
+      "y": -509
+    },
+    {
+      "file": "Music Sheets/7.png",
       "height": 226,
-      "id": "af8b251e7d0c3892",
+      "id": "e9ea0ac916fcb6d0",
       "styleAttributes": {
       },
       "type": "file",
       "width": 400,
-      "x": 1649,
-      "y": -1079
+      "x": 660,
+      "y": -794
     },
     {
       "file": "E-Mails/Office_07-10-1993.png",
@@ -307,19 +320,7 @@
       "y": -817
     },
     {
-      "height": 60,
-      "id": "d856c2eca8272b54",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Hartley ???",
-      "type": "text",
-      "width": 260,
-      "x": 2400,
-      "y": -1480
-    },
-    {
-      "file": "Anne Babbage.md",
+      "file": "Pessoas/Anne Babbage.md",
       "height": 60,
       "id": "8cc9d16c08f54e9e",
       "styleAttributes": {
@@ -330,17 +331,13 @@
       "y": -1560
     },
     {
+      "file": "Pessoas/Heartley ????.md",
       "height": 60,
-      "id": "c003ea1e274b8268",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": " Find among the white trees under two stones",
-      "type": "text",
-      "width": 272,
-      "x": 828,
-      "y": -509
+      "id": "2aa54816d9d34ad2",
+      "type": "file",
+      "width": 260,
+      "x": 2400,
+      "y": -1479
     }
   ]
 }
