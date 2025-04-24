@@ -1,0 +1,170 @@
+{
+  "edges": [
+    {
+      "fromNode": "b676644ef7dcf71f",
+      "fromSide": "right",
+      "id": "a1030e8741cebabc",
+      "styleAttributes": {
+      },
+      "toNode": "c8f3e7b83dbf926a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c8f3e7b83dbf926a",
+      "fromSide": "right",
+      "id": "699ad04ceff8764b",
+      "styleAttributes": {
+      },
+      "toNode": "22a861f47fcf2056",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22a861f47fcf2056",
+      "fromSide": "right",
+      "id": "d7a64e0b1a625a7c",
+      "styleAttributes": {
+      },
+      "toNode": "a0897c250f1e303e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a0897c250f1e303e",
+      "fromSide": "right",
+      "id": "8876f6ac5772d887",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "5ac2660fd0fe593a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ac2660fd0fe593a",
+      "fromSide": "right",
+      "id": "02340ac352cf05c5",
+      "styleAttributes": {
+      },
+      "toNode": "aebbad9031de375b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aebbad9031de375b",
+      "fromSide": "right",
+      "id": "e6f645e81e33b6e9",
+      "styleAttributes": {
+      },
+      "toNode": "e9ea0ac916fcb6d0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e9ea0ac916fcb6d0",
+      "fromSide": "right",
+      "id": "c032d3e83208c8c2",
+      "styleAttributes": {
+      },
+      "toNode": "525e081413ca7b50",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 620,
+      "id": "fb9cd2c8baff1728",
+      "label": "Music Sheets",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "group",
+      "width": 1840,
+      "x": -280,
+      "y": -1120
+    },
+    {
+      "file": "Music Sheets/1.png",
+      "height": 226,
+      "id": "b676644ef7dcf71f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/2.png",
+      "height": 226,
+      "id": "c8f3e7b83dbf926a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/3.png",
+      "height": 226,
+      "id": "22a861f47fcf2056",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/4.png",
+      "height": 226,
+      "id": "a0897c250f1e303e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/5.png",
+      "height": 226,
+      "id": "5ac2660fd0fe593a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/6.png",
+      "height": 226,
+      "id": "aebbad9031de375b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/8.png",
+      "height": 226,
+      "id": "525e081413ca7b50",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/7.png",
+      "height": 226,
+      "id": "e9ea0ac916fcb6d0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": -794
+    }
+  ]
+}
