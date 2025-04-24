@@ -141,6 +141,8 @@
       "height": 260,
       "id": "ed54c7a9f5a81683",
       "label": "Pessoas",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 380,
       "x": 2340,
@@ -213,18 +215,6 @@
       "y": -794
     },
     {
-      "height": 81,
-      "id": "699c32da2e38ffd7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "First words on the sheets are true message",
-      "type": "text",
-      "width": 275,
-      "x": 1163,
-      "y": -520
-    },
-    {
       "file": "Music Sheets/4.png",
       "height": 226,
       "id": "a0897c250f1e303e",
@@ -245,6 +235,32 @@
       "width": 400,
       "x": 1100,
       "y": -794
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "db61e387196e1486",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Sala nova: Conservatory",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": -509
+    },
+    {
+      "height": 81,
+      "id": "699c32da2e38ffd7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "First words on the sheets are true message",
+      "type": "text",
+      "width": 275,
+      "x": 1163,
+      "y": -520
     },
     {
       "file": "E-Mails/Office_01-11-1993.png",
@@ -324,20 +340,6 @@
       "type": "text",
       "width": 272,
       "x": 828,
-      "y": -509
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "db61e387196e1486",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "Sala nova: Conservatory",
-      "type": "text",
-      "width": 260,
-      "x": 500,
       "y": -509
     }
   ]
