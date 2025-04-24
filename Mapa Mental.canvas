@@ -329,28 +329,6 @@
       "y": -509
     },
     {
-      "file": "Pessoas/Anne Babbage.md",
-      "height": 60,
-      "id": "8cc9d16c08f54e9e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 260,
-      "x": 2400,
-      "y": -1560
-    },
-    {
-      "file": "Pessoas/Heartley ????.md",
-      "height": 60,
-      "id": "2aa54816d9d34ad2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 260,
-      "x": 2400,
-      "y": -1479
-    },
-    {
       "file": "Cartas/Hovel_2.png",
       "height": 226,
       "id": "40b7320fe6911e8d",
@@ -372,6 +350,28 @@
       "width": 260,
       "x": 50,
       "y": -1440
+    },
+    {
+      "file": "Pessoas/Anne Babbage.md",
+      "height": 60,
+      "id": "8cc9d16c08f54e9e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 2400,
+      "y": -1560
+    },
+    {
+      "file": "Pessoas/Heartley ????.md",
+      "height": 60,
+      "id": "2aa54816d9d34ad2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 2400,
+      "y": -1479
     }
   ]
 }
