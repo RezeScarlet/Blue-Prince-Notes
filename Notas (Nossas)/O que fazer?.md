@@ -1,4 +1,5 @@
 # O que fazer?
+ - [ ] Chamber of Mirrors
  - [ ] Quebrar as paredes
 	- [ ] Greenhouse;
 	- [ ] Secret Garden;
