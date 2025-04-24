@@ -31,3 +31,4 @@
 	- [ ] Como que dorme
 	- [ ] ![[9.jpg]] Interagir com porta invisível/secreta??? ESTOURAR A PORRA DO TRADE
 - [ ] Aprender Erajan
+- [x] Senha PADLOCK encima do (North Lever) Tunnel MAY8
