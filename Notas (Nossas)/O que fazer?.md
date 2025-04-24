@@ -1,5 +1,6 @@
 # O que fazer?
  - [ ] Chamber of Mirrors
+ - [ ] Final Exam (Todas Classroom + 9ª Classroom)
  - [ ] Acender a capela
  - [ ] Quebrar as paredes
 	- [ ] Greenhouse;
@@ -19,7 +20,9 @@
 - [ ] Criar todos os itens
 	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
 	- [x] Tocha Gamer (Metal Detector + Magnifying Glass)
-	- [x] Detector de Itens (Metal Detector + Compass)
+	- [x] Detector de Itens (Shovel + Compass)
+	- [x] Shovel + Battery Pack + Broken Lever
+	- [ ] 
 - [ ] Blackbridge Grotto
 	- [ ] Admin Key
 	- [ ] Pecinha eletrônica
