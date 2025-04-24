@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Mapa Mental.canvas",
                 "viewState": {
                   "x": 640,
                   "y": -440.31358428805237,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Mapa Mental"
             }
           }
         ]
@@ -182,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34e033bb454ed504",
+  "active": "d0a6b51be8ded75f",
   "lastOpenFiles": [
     "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Mapa Mental.canvas",
     "Music Sheets/1.png",
     "20250414233122_1.jpg",
     "Blue-Prince-Notes",
