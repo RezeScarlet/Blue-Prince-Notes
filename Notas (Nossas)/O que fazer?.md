@@ -24,5 +24,5 @@
 	- [ ] ![[Blackbridge_Grotto_1.png]]
 - [ ] Ladyship's Diary
 	- [ ] Como que dorme
-	- [ ] ![[9.jpg]] Interagir com porta invisível/secreta???
+	- [ ] ![[9.jpg]] Interagir com porta invisível/secreta??? ESTOURAR A PORRA DO TRADE
 - [ ] Aprender Erajan
