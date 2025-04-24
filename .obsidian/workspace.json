@@ -11,17 +11,14 @@
             "id": "bf3594d350784ffb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Mapa Mental.canvas",
-                "viewState": {
-                  "x": 640,
-                  "y": -440.31358428805237,
-                  "zoom": -1.5279650048755808
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa Mental"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -81,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "b89fc4af2d13a369",
@@ -182,15 +179,60 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0a6b51be8ded75f",
+  "floating": {
+    "id": "a9ace8e7e07eeac9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "95ba6b20eb4d8184",
+        "type": "window",
+        "children": [
+          {
+            "id": "ccec62df9a229a1b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49ef241adb5df076",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "E-Mails/Office_01-11-1993.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Office_01-11-1993"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1360,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bf3594d350784ffb",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Mapa Mental.canvas",
+    "Anne Babbage.md",
+    "E-Mails/Office_01-11-1993.png",
+    "E-Mails/Office_08-10-1993.png",
+    "E-Mails/Office_07-10-1993.png",
+    "E-Mails/Office_05-10_1985.png",
+    "Notas (Nossas)/Puzzle_Quadros.jpg",
+    "Notas (Nossas)/photo_4922953508689390844_y.jpg",
+    "Notas (Nossas)",
+    "Notas",
     "Music Sheets/1.png",
+    "Untitled 1.canvas",
     "20250414233122_1.jpg",
     "Blue-Prince-Notes",
     "Music Sheets/3.png",
-    "Music Sheets/5.png",
-    "20250417085222_1.jpg"
+    "Music Sheets/5.png"
   ]
 }
