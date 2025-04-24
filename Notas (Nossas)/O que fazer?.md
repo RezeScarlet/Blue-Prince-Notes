@@ -5,4 +5,12 @@
 	- [ ] Basement pelo elevador do Foundation;
 - [ ] Entrar na Sala 46 (denovo)
 - [ ] Abrir a porta vermelha no caminho para a alavanca norte da Antechamber
-- [ ] Abrir as 8 portas 
+- [ ] Abrir as 8 portas ao lado da alavanca norte da Antechamber
+	- [ ] 1
+	- [ ] 2
+	- [ ] 3
+	- [ ] 4
+	- [ ] 5
+	- [ ] 6
+	- [ ] 7
+	- [ ] 8
