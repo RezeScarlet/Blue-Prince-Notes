@@ -108,6 +108,15 @@
       },
       "toNode": "af8b251e7d0c3892",
       "toSide": "top"
+    },
+    {
+      "fromNode": "40b7320fe6911e8d",
+      "fromSide": "bottom",
+      "id": "0f1be38cd1de6f82",
+      "styleAttributes": {
+      },
+      "toNode": "82cbd339aa9425a1",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -340,6 +349,27 @@
       "width": 260,
       "x": 2400,
       "y": -1479
+    },
+    {
+      "file": "Cartas/Hovel_2.png",
+      "height": 226,
+      "id": "40b7320fe6911e8d",
+      "type": "file",
+      "width": 400,
+      "x": -20,
+      "y": -1760
+    },
+    {
+      "height": 60,
+      "id": "82cbd339aa9425a1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "8 portas do basement",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": -1440
     }
   ]
 }
