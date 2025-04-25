@@ -117,9 +117,38 @@
       },
       "toNode": "82cbd339aa9425a1",
       "toSide": "top"
+    },
+    {
+      "fromNode": "f7db7c3f147911a5",
+      "fromSide": "left",
+      "id": "bb7a05787ff3bdba",
+      "styleAttributes": {
+      },
+      "toNode": "81de64e5784e0373",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "81de64e5784e0373",
+      "fromSide": "bottom",
+      "id": "63872c54e6a5b4af",
+      "styleAttributes": {
+      },
+      "toNode": "9a27f892e8fc79d9",
+      "toSide": "top"
     }
   ],
   "nodes": [
+    {
+      "height": 1312,
+      "id": "a649bb583349ed94",
+      "label": "Geopolítica",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1200,
+      "x": 3140,
+      "y": 160
+    },
     {
       "color": "3",
       "height": 720,
@@ -180,29 +209,6 @@
       "y": -794
     },
     {
-      "file": "Music Sheets/8.png",
-      "height": 226,
-      "id": "525e081413ca7b50",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1100,
-      "y": -794
-    },
-    {
-      "height": 81,
-      "id": "699c32da2e38ffd7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "First words on the sheets are true message",
-      "type": "text",
-      "width": 275,
-      "x": 1163,
-      "y": -520
-    },
-    {
       "file": "Cartas/Hovel_2.png",
       "height": 226,
       "id": "40b7320fe6911e8d",
@@ -212,17 +218,6 @@
       "width": 400,
       "x": -20,
       "y": -1760
-    },
-    {
-      "file": "Music Sheets/4.png",
-      "height": 226,
-      "id": "a0897c250f1e303e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1100,
-      "y": -1060
     },
     {
       "height": 60,
@@ -246,6 +241,73 @@
       "width": 400,
       "x": 1649,
       "y": -1079
+    },
+    {
+      "file": "E-Mails/Office_07-10-1993.png",
+      "height": 226,
+      "id": "edc419254dd066c1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1649,
+      "y": -817
+    },
+    {
+      "file": "E-Mails/Office_05-10_1985.png",
+      "height": 226,
+      "id": "729fb87cf02fc3bb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2089,
+      "y": -1079
+    },
+    {
+      "file": "E-Mails/Office_08-10-1993.png",
+      "height": 226,
+      "id": "09b03320c6131bf2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2089,
+      "y": -817
+    },
+    {
+      "height": 81,
+      "id": "699c32da2e38ffd7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "First words on the sheets are true message",
+      "type": "text",
+      "width": 275,
+      "x": 1163,
+      "y": -520
+    },
+    {
+      "file": "Music Sheets/8.png",
+      "height": 226,
+      "id": "525e081413ca7b50",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/4.png",
+      "height": 226,
+      "id": "a0897c250f1e303e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -1060
     },
     {
       "file": "Music Sheets/2.png",
@@ -319,17 +381,6 @@
       "y": -794
     },
     {
-      "file": "E-Mails/Office_07-10-1993.png",
-      "height": 226,
-      "id": "edc419254dd066c1",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1649,
-      "y": -817
-    },
-    {
       "file": "Pessoas/Anne Babbage.md",
       "height": 60,
       "id": "8cc9d16c08f54e9e",
@@ -350,28 +401,6 @@
       "width": 260,
       "x": 2400,
       "y": -1479
-    },
-    {
-      "file": "E-Mails/Office_08-10-1993.png",
-      "height": 226,
-      "id": "09b03320c6131bf2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2089,
-      "y": -817
-    },
-    {
-      "file": "E-Mails/Office_05-10_1985.png",
-      "height": 226,
-      "id": "729fb87cf02fc3bb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2089,
-      "y": -1079
     },
     {
       "file": "Classroom/Geografia/09.png",
@@ -407,6 +436,17 @@
       "y": 720
     },
     {
+      "file": "Classroom/Geografia/07.png",
+      "height": 226,
+      "id": "8f423f1b77c3041c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3700,
+      "y": 180
+    },
+    {
       "file": "Classroom/Geografia/12.png",
       "height": 226,
       "id": "a48f916beac9dd66",
@@ -418,15 +458,27 @@
       "y": 720
     },
     {
-      "file": "Classroom/Geografia/07.png",
-      "height": 226,
-      "id": "8f423f1b77c3041c",
+      "height": 60,
+      "id": "81de64e5784e0373",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arch invadiu Orinda, e então se tornou Fenn Aries",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": 523
+    },
+    {
+      "file": "Notas (Nossas)/Pasted image 20250425174650.png",
+      "height": 252,
+      "id": "9a27f892e8fc79d9",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 400,
-      "x": 3700,
-      "y": 180
+      "width": 180,
+      "x": 3220,
+      "y": 694
     },
     {
       "file": "Classroom/Geografia/03.png",
@@ -440,17 +492,6 @@
       "y": 1226
     },
     {
-      "file": "Classroom/Geografia/04.png",
-      "height": 226,
-      "id": "f86a5a297d5d8aa0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3660,
-      "y": 1226
-    },
-    {
       "file": "Classroom/Geografia/05.png",
       "height": 226,
       "id": "35947679f4579c4e",
@@ -460,6 +501,17 @@
       "width": 400,
       "x": 3440,
       "y": 980
+    },
+    {
+      "file": "Classroom/Geografia/04.png",
+      "height": 226,
+      "id": "f86a5a297d5d8aa0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3660,
+      "y": 1226
     }
   ]
 }
