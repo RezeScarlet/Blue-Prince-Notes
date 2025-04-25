@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "f2f8e25e670bb50d",
+      "type": "file",
+      "file": "Classroom/Geografia/03.png",
+      "x": 800,
+      "y": 440,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "f86a5a297d5d8aa0",
+      "type": "file",
+      "file": "Classroom/Geografia/04.png",
+      "x": 1240,
+      "y": 440,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "97f8024e8cdfc34e",
+      "type": "file",
+      "file": "Classroom/Geografia/11.png",
+      "x": -80,
+      "y": 880,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "a48f916beac9dd66",
+      "type": "file",
+      "file": "Classroom/Geografia/12.png",
+      "x": 360,
+      "y": 880,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "35947679f4579c4e",
+      "type": "file",
+      "file": "Classroom/Geografia/05.png",
+      "x": 1700,
+      "y": 440,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "8f423f1b77c3041c",
+      "type": "file",
+      "file": "Classroom/Geografia/07.png",
+      "x": 2580,
+      "y": 440,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "f7db7c3f147911a5",
+      "type": "file",
+      "file": "Classroom/Geografia/09.png",
+      "x": 3480,
+      "y": 440,
+      "width": 400,
+      "height": 226
+    },
+    {
+      "id": "311d4c098888f2c7",
+      "type": "file",
+      "file": "Classroom/Geografia/10.png",
+      "x": 3920,
+      "y": 440,
+      "width": 400,
+      "height": 226
+    }
+  ],
+  "edges": []
+}
