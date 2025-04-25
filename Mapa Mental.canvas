@@ -158,28 +158,6 @@
       "y": -1620
     },
     {
-      "file": "Music Sheets/2.png",
-      "height": 226,
-      "id": "c8f3e7b83dbf926a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 220,
-      "y": -1060
-    },
-    {
-      "file": "Music Sheets/6.png",
-      "height": 226,
-      "id": "aebbad9031de375b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 220,
-      "y": -794
-    },
-    {
       "file": "Music Sheets/1.png",
       "height": 226,
       "id": "b676644ef7dcf71f",
@@ -213,6 +191,85 @@
       "y": -794
     },
     {
+      "height": 81,
+      "id": "699c32da2e38ffd7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "First words on the sheets are true message",
+      "type": "text",
+      "width": 275,
+      "x": 1163,
+      "y": -520
+    },
+    {
+      "file": "Cartas/Hovel_2.png",
+      "height": 226,
+      "id": "40b7320fe6911e8d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -20,
+      "y": -1760
+    },
+    {
+      "file": "Music Sheets/4.png",
+      "height": 226,
+      "id": "a0897c250f1e303e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -1060
+    },
+    {
+      "height": 60,
+      "id": "82cbd339aa9425a1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "8 portas do basement?",
+      "type": "text",
+      "width": 260,
+      "x": 50,
+      "y": -1440
+    },
+    {
+      "file": "E-Mails/Office_01-11-1993.png",
+      "height": 226,
+      "id": "af8b251e7d0c3892",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1649,
+      "y": -1079
+    },
+    {
+      "file": "Music Sheets/2.png",
+      "height": 226,
+      "id": "c8f3e7b83dbf926a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/6.png",
+      "height": 226,
+      "id": "aebbad9031de375b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": -794
+    },
+    {
       "color": "4",
       "height": 60,
       "id": "db61e387196e1486",
@@ -227,18 +284,6 @@
       "y": -509
     },
     {
-      "height": 81,
-      "id": "699c32da2e38ffd7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "First words on the sheets are true message",
-      "type": "text",
-      "width": 275,
-      "x": 1163,
-      "y": -520
-    },
-    {
       "height": 60,
       "id": "c003ea1e274b8268",
       "styleAttributes": {
@@ -250,17 +295,6 @@
       "width": 272,
       "x": 828,
       "y": -509
-    },
-    {
-      "file": "Cartas/Hovel_2.png",
-      "height": 226,
-      "id": "40b7320fe6911e8d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -20,
-      "y": -1760
     },
     {
       "file": "Music Sheets/3.png",
@@ -285,28 +319,6 @@
       "y": -794
     },
     {
-      "file": "Music Sheets/4.png",
-      "height": 226,
-      "id": "a0897c250f1e303e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1100,
-      "y": -1060
-    },
-    {
-      "file": "E-Mails/Office_01-11-1993.png",
-      "height": 226,
-      "id": "af8b251e7d0c3892",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1649,
-      "y": -1079
-    },
-    {
       "file": "E-Mails/Office_07-10-1993.png",
       "height": 226,
       "id": "edc419254dd066c1",
@@ -316,40 +328,6 @@
       "width": 400,
       "x": 1649,
       "y": -817
-    },
-    {
-      "file": "E-Mails/Office_05-10_1985.png",
-      "height": 226,
-      "id": "729fb87cf02fc3bb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2089,
-      "y": -1079
-    },
-    {
-      "file": "E-Mails/Office_08-10-1993.png",
-      "height": 226,
-      "id": "09b03320c6131bf2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2089,
-      "y": -817
-    },
-    {
-      "height": 60,
-      "id": "82cbd339aa9425a1",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "8 portas do basement?",
-      "type": "text",
-      "width": 260,
-      "x": 50,
-      "y": -1440
     },
     {
       "file": "Pessoas/Anne Babbage.md",
@@ -374,63 +352,33 @@
       "y": -1479
     },
     {
-      "file": "Classroom/Geografia/03.png",
+      "file": "E-Mails/Office_08-10-1993.png",
       "height": 226,
-      "id": "f2f8e25e670bb50d",
+      "id": "09b03320c6131bf2",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
-      "x": 800,
-      "y": 440
+      "x": 2089,
+      "y": -817
     },
     {
-      "file": "Classroom/Geografia/04.png",
+      "file": "E-Mails/Office_05-10_1985.png",
       "height": 226,
-      "id": "f86a5a297d5d8aa0",
+      "id": "729fb87cf02fc3bb",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
-      "x": 1240,
-      "y": 440
-    },
-    {
-      "file": "Classroom/Geografia/11.png",
-      "height": 226,
-      "id": "97f8024e8cdfc34e",
-      "type": "file",
-      "width": 400,
-      "x": -80,
-      "y": 880
-    },
-    {
-      "file": "Classroom/Geografia/12.png",
-      "height": 226,
-      "id": "a48f916beac9dd66",
-      "type": "file",
-      "width": 400,
-      "x": 360,
-      "y": 880
-    },
-    {
-      "file": "Classroom/Geografia/05.png",
-      "height": 226,
-      "id": "35947679f4579c4e",
-      "type": "file",
-      "width": 400,
-      "x": 1700,
-      "y": 440
-    },
-    {
-      "file": "Classroom/Geografia/07.png",
-      "height": 226,
-      "id": "8f423f1b77c3041c",
-      "type": "file",
-      "width": 400,
-      "x": 2580,
-      "y": 440
+      "x": 2089,
+      "y": -1079
     },
     {
       "file": "Classroom/Geografia/09.png",
       "height": 226,
       "id": "f7db7c3f147911a5",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
       "x": 3480,
@@ -440,10 +388,78 @@
       "file": "Classroom/Geografia/10.png",
       "height": 226,
       "id": "311d4c098888f2c7",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 400,
       "x": 3920,
       "y": 440
+    },
+    {
+      "file": "Classroom/Geografia/11.png",
+      "height": 226,
+      "id": "97f8024e8cdfc34e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3480,
+      "y": 720
+    },
+    {
+      "file": "Classroom/Geografia/12.png",
+      "height": 226,
+      "id": "a48f916beac9dd66",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 720
+    },
+    {
+      "file": "Classroom/Geografia/07.png",
+      "height": 226,
+      "id": "8f423f1b77c3041c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3700,
+      "y": 180
+    },
+    {
+      "file": "Classroom/Geografia/03.png",
+      "height": 226,
+      "id": "f2f8e25e670bb50d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3240,
+      "y": 1226
+    },
+    {
+      "file": "Classroom/Geografia/04.png",
+      "height": 226,
+      "id": "f86a5a297d5d8aa0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3660,
+      "y": 1226
+    },
+    {
+      "file": "Classroom/Geografia/05.png",
+      "height": 226,
+      "id": "35947679f4579c4e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3440,
+      "y": 980
     }
   ]
 }
