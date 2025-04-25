@@ -144,6 +144,26 @@
       },
       "toNode": "81de64e5784e0373",
       "toSide": "top"
+    },
+    {
+      "fromNode": "f86a5a297d5d8aa0",
+      "fromSide": "right",
+      "id": "fa3aaeb0e1a04c18",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "6a76c36654c1c61c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6a76c36654c1c61c",
+      "fromSide": "top",
+      "id": "d17b910aa012b2c3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "aac32dd6b6f5f78b",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
@@ -412,17 +432,6 @@
       "y": -1479
     },
     {
-      "file": "Classroom/Geografia/09.png",
-      "height": 226,
-      "id": "f7db7c3f147911a5",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3480,
-      "y": 440
-    },
-    {
       "file": "Classroom/Geografia/11.png",
       "height": 226,
       "id": "97f8024e8cdfc34e",
@@ -432,17 +441,6 @@
       "width": 400,
       "x": 3480,
       "y": 720
-    },
-    {
-      "file": "Notas (Nossas)/Pasted image 20250425174650.png",
-      "height": 252,
-      "id": "9a27f892e8fc79d9",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 180,
-      "x": 3220,
-      "y": 694
     },
     {
       "file": "Classroom/Geografia/03.png",
@@ -478,17 +476,6 @@
       "y": 1226
     },
     {
-      "file": "Classroom/Geografia/10.png",
-      "height": 226,
-      "id": "311d4c098888f2c7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 440
-    },
-    {
       "file": "Classroom/Geografia/07.png",
       "height": 226,
       "id": "8f423f1b77c3041c",
@@ -497,6 +484,17 @@
       "type": "file",
       "width": 400,
       "x": 3700,
+      "y": 180
+    },
+    {
+      "file": "Classroom/Historia/10.png",
+      "height": 226,
+      "id": "562a7cdd73089ef6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3110,
       "y": 180
     },
     {
@@ -511,15 +509,6 @@
       "y": 720
     },
     {
-      "file": "Classroom/Historia/10.png",
-      "height": 226,
-      "id": "562a7cdd73089ef6",
-      "type": "file",
-      "width": 400,
-      "x": 3110,
-      "y": 180
-    },
-    {
       "height": 103,
       "id": "81de64e5784e0373",
       "styleAttributes": {
@@ -530,6 +519,60 @@
       "width": 260,
       "x": 3180,
       "y": 501
+    },
+    {
+      "file": "Classroom/Geografia/09.png",
+      "height": 226,
+      "id": "f7db7c3f147911a5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3480,
+      "y": 440
+    },
+    {
+      "file": "Notas (Nossas)/Pasted image 20250425174650.png",
+      "height": 252,
+      "id": "9a27f892e8fc79d9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 180,
+      "x": 3220,
+      "y": 694
+    },
+    {
+      "file": "Classroom/Geografia/10.png",
+      "height": 226,
+      "id": "311d4c098888f2c7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 440
+    },
+    {
+      "file": "Livros/Realm & Rune/06.jpg",
+      "height": 226,
+      "id": "aac32dd6b6f5f78b",
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 980
+    },
+    {
+      "height": 131,
+      "id": "6a76c36654c1c61c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
+      "type": "text",
+      "width": 220,
+      "x": 4100,
+      "y": 1300
     }
   ]
 }
