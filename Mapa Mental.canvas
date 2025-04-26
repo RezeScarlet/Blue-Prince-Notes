@@ -168,7 +168,7 @@
   ],
   "nodes": [
     {
-      "height": 1312,
+      "height": 1880,
       "id": "a649bb583349ed94",
       "label": "Geopolítica",
       "styleAttributes": {
@@ -443,17 +443,6 @@
       "y": 720
     },
     {
-      "file": "Classroom/Geografia/03.png",
-      "height": 226,
-      "id": "f2f8e25e670bb50d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3240,
-      "y": 1226
-    },
-    {
       "file": "Classroom/Geografia/05.png",
       "height": 226,
       "id": "35947679f4579c4e",
@@ -463,17 +452,6 @@
       "width": 400,
       "x": 3440,
       "y": 980
-    },
-    {
-      "file": "Classroom/Geografia/04.png",
-      "height": 226,
-      "id": "f86a5a297d5d8aa0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3660,
-      "y": 1226
     },
     {
       "file": "Classroom/Geografia/07.png",
@@ -496,6 +474,62 @@
       "width": 400,
       "x": 3110,
       "y": 180
+    },
+    {
+      "file": "Classroom/Geografia/10.png",
+      "height": 226,
+      "id": "311d4c098888f2c7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 440
+    },
+    {
+      "file": "Livros/Realm & Rune/06.jpg",
+      "height": 226,
+      "id": "aac32dd6b6f5f78b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 980
+    },
+    {
+      "height": 131,
+      "id": "6a76c36654c1c61c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
+      "type": "text",
+      "width": 220,
+      "x": 4100,
+      "y": 1300
+    },
+    {
+      "file": "Classroom/Geografia/03.png",
+      "height": 226,
+      "id": "f2f8e25e670bb50d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3240,
+      "y": 1226
+    },
+    {
+      "file": "Classroom/Geografia/04.png",
+      "height": 226,
+      "id": "f86a5a297d5d8aa0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3660,
+      "y": 1226
     },
     {
       "file": "Classroom/Geografia/12.png",
@@ -543,36 +577,16 @@
       "y": 694
     },
     {
-      "file": "Classroom/Geografia/10.png",
-      "height": 226,
-      "id": "311d4c098888f2c7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 440
-    },
-    {
-      "file": "Livros/Realm & Rune/06.jpg",
-      "height": 226,
-      "id": "aac32dd6b6f5f78b",
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 980
-    },
-    {
-      "height": 131,
-      "id": "6a76c36654c1c61c",
+      "height": 180,
+      "id": "29999c10df29c3cc",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
+      "text": "Arch Aries -> Stormy\nEraja -> Magic & Poetry\nOrinda Aries -> Military?\nRailways on all of em",
       "type": "text",
-      "width": 220,
-      "x": 4100,
-      "y": 1300
+      "width": 260,
+      "x": 3740,
+      "y": 1620
     }
   ]
 }
