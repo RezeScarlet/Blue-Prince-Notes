@@ -1,21 +1,22 @@
 # O que fazer?
+ - [ ] Dia 69 -> 14 de Janeiro de 1994
  - [ ] Chamber of Mirrors
  - [ ] Final Exam (Todas Classroom + 9ª Classroom)
  - [x] Acender a capela -> Cofrinho que contempla todos os dinheiros perdidos na chapel
  - [ ] Quebrar as paredes
 	- [ ] Greenhouse;
-	- [ ] Secret Garden;
-	- [ ] Basement pelo elevador do Foundation;
-- [ ] Entrar na Sala 46 (denovo)
-- [ ] Abrir a porta vermelha no caminho para a alavanca norte da Antechamber
+	- [x] Secret Garden;
+	- [x] Basement pelo elevador do Foundation;
+- [x] Entrar na Sala 46 (denovo)
+- [x] Abrir a porta vermelha no caminho para a alavanca norte da Antechamber
 - [ ] Abrir as 8 portas ao lado da alavanca norte da Antechamber
-	- [ ] 1
+	- [x] 1 -> Orinda Resolvido
 	- [ ] 2
 	- [ ] 3
 	- [ ] 4
 	- [ ] 5
 	- [ ] 6
-	- [ ] 7
+	- [x] 7 Vena Não Resolvido
 	- [ ] 8
 - [ ] Criar todos os itens
 	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
