@@ -1,5 +1,5 @@
 # O que fazer?
- - [ ] Dia 69 -> 14 de Janeiro de 1994
+ **Dia 69 -> 14 de Janeiro de 1994**
  - [ ] Chamber of Mirrors
  - [ ] Final Exam (Todas Classroom + 9ª Classroom)
  - [x] Acender a capela -> Cofrinho que contempla todos os dinheiros perdidos na chapel
