@@ -1,6 +1,10 @@
 # O que fazer?
  **Dia 69 -> 14 de Janeiro de 1994**
+ **Dia 72 -> 17 de Janeiro de 1994**
  - [ ] Chamber of Mirrors
+ - [ ] Tumba tem adição nova...
+ - [ ] Água no reservoir
+ - [ ] Água na kitchen
  - [ ] Final Exam (Todas Classroom + 9ª Classroom)
  - [x] Acender a capela -> Cofrinho que contempla todos os dinheiros perdidos na chapel
  - [ ] Quebrar as paredes
