@@ -1,5 +1,5 @@
 # ENEM
-## Cores
+## Cores✅ 
 1 - C ✅ 
 3 - D ✅
 4 - C ✅
@@ -14,7 +14,7 @@
 22 - C✅
 23- B✅
 27 - D❓
-## Matemática
+## Matemática & Álgebra 
 6 - A ✅
 7 - D ✅
 8 - B ✅
@@ -29,7 +29,7 @@
 39 - D✅
 46 - D✅
 
-## Química
+## Química ✅ 
 12 - A ✅
 13 - B ✅
 14 - C ✅
@@ -39,7 +39,7 @@
 25 - D❓
 26 - C✅
 
-## História
+## História 50% (Acertamos mais 1)
 28 - A✅
 29 - D❓
 30 - C✅
