@@ -11,8 +11,9 @@
 19 - A❓
 20 - D✅ (ou é nuance e a questão tá considerando o planeta globo e distancia bla)
 21 - A✅
-22 - 
-
+22 - C✅
+23- B✅
+27 - D❓
 ## Matemática
 6 - A ✅
 7 - D ✅
@@ -26,3 +27,13 @@
 13 - B ✅
 14 - C ✅
 
+## Artes
+24 - B✅
+25 - D❓
+26 - C✅
+
+## História
+28 - A✅
+29 - D❓
+30 - C✅
+31 - C
