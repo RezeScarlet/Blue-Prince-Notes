@@ -6,10 +6,11 @@ New day | me **d** future without you. First me **bid** | you **heed** | me **d*
 House Sinclair without you. House Epsen without you... **Forget** | you **dein** | north.
 You **djorjeari**.. You **darei** towards south **fenn** away. You **deinjoro** away.
 Towards Eraja. Towards South | new future.
->	Word
+>	Last words me **diris**,
+>		You **djora**
 
 
-
-
+iris = amor?
+diris = dear/dearest?
 d = and só que depois dos dois substantivos/pronomes?
 d = in?

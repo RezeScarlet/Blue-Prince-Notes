@@ -6,8 +6,7 @@ Nevdau eldareilu. Ajelbid ulheed eldlor: Uloddiris.
 Hewsinclairlu. Hewepsenlu... Forget uldein inn.
 Uldjorjeari..Uldareiovissfennvo. Uldeinjorovo.
 Overaja. Oviss nevarei.
-
->Lorja eldiris,
-	Uldjora
+	Lorja eldiris,
+		Uldjora
 
 [[Carta Tomb Traduzida]]
