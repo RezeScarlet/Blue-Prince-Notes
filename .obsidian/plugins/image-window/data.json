@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "RedArch": {
+          "x": 1360,
+          "y": 0,
+          "width": 1920,
+          "height": 1080,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 # Carta Tomb
->Oreldajiris.
+>Oveldajiris.
 Ulelddau, uleldnai, uleldmora. (ou mooa)
-Orulelgift eldhew oviss (ou oriss). Nevdau uldareile.
+Ovulelgift eldhew oviss (ou oriss). Nevdau uldareile.
 Nevdau eldareilu. Ajelbid ulheed eldlor: Uloddiris.
 Hewsinclairlu. Hewepsenlu... Forget uldein inn.
 Uldjorjeari..Uldareiovissfennvo. Uldeinjorovo.
