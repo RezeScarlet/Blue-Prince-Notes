@@ -4,7 +4,10 @@ You me **d** day, you me **d** night, you me **d** **mora**(Mora Jai?).
 Toward you me **gift** | me **d** house | towards south. New day | you **d** future without me. 
 New day | me **d** future without you. First me **bid** | you **heed** | me **d** word: You **odd** **iris**.
 House Sinclair without you. House Epsen without you... **Forget** | you **dein** | north.
-You **d**
+You **djorjeari**.. You **darei** towards south **fenn** away. You **deinjoro** away.
+Towards Eraja. Towards South | new future.
+>	Word
+
 
 
 
