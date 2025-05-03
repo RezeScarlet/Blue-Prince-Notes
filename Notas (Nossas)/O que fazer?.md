@@ -1,7 +1,7 @@
 # O que fazer?
  **Dia 69 -> 14 de Janeiro de 1994**
  **Dia 72 -> 17 de Janeiro de 1994**
- - [ ] Secret Garden Rank 4
+ - [ ] Secret Garden Rank 4 E
  - [ ] Upgrade Disk
 	 - [ ] Mechanarium
 	 - [x] Vault
