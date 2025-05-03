@@ -1,7 +1,10 @@
 # O que fazer?
  **Dia 69 -> 14 de Janeiro de 1994**
  **Dia 72 -> 17 de Janeiro de 1994**
-  - [ ] Secret Garden Rank 4
+ - [ ] Secret Garden Rank 4
+ - [ ] Upgrade Disk
+	 - [ ] Mechanarium
+	 - [ ] Vault
  - [ ] Chamber of Mirrors
  - [ ] Tumba tem adição nova...
  - [x] Água no reservoir
