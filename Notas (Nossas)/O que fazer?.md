@@ -4,7 +4,7 @@
  - [ ] Secret Garden Rank 4
  - [ ] Upgrade Disk
 	 - [ ] Mechanarium
-	 - [ ] Vault
+	 - [x] Vault
  - [ ] Chamber of Mirrors
  - [ ] Tumba tem adição nova...
  - [x] Água no reservoir
