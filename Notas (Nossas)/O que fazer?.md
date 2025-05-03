@@ -25,9 +25,9 @@
 	- [ ] 4
 	- [ ] 5
 	- [ ] 6
-	- [x] 7 Vena Não Resolvido
+	- [x] 7 Verra Não Resolvido
 	- [ ] 8
-- [ ] Criar todos os itens
+- [x] Criar todos os itens
 	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
 	- [x] Tocha Gamer (Metal Detector + Magnifying Glass)
 	- [x] Detector de Itens (Shovel + Compass)
