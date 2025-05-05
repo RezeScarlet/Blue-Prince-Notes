@@ -386,7 +386,7 @@
       "toSide": "left"
     },
     {
-      "color": "1",
+      "color": "4",
       "fromNode": "6b1ce6902e560841",
       "fromSide": "right",
       "id": "ee628c3a954dba2c",
@@ -1038,19 +1038,6 @@
       "y": 1221
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "0539cbd3837534e3",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Eraja",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 645
-    },
-    {
       "height": 60,
       "id": "5d2cc30ce0f159c5",
       "styleAttributes": {
@@ -1061,32 +1048,6 @@
       "width": 260,
       "x": 5280,
       "y": 855
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "d7250d17a3b82e89",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Poetic",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 645
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "4f25a2f18122fce1",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Violeta\n",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 645
     },
     {
       "height": 60,
@@ -1171,18 +1132,6 @@
       "width": 260,
       "x": 4800,
       "y": 1161
-    },
-    {
-      "height": 60,
-      "id": "6b1ce6902e560841",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Mora  Jai",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 755
     },
     {
       "height": 60,
@@ -1424,6 +1373,57 @@
       "width": 260,
       "x": 4790,
       "y": -85
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0539cbd3837534e3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Eraja",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 360
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4f25a2f18122fce1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Violeta\n",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 360
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "d7250d17a3b82e89",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Poetic",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 360
+    },
+    {
+      "height": 60,
+      "id": "6b1ce6902e560841",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mora  Jai",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 480
     }
   ]
 }
