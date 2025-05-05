@@ -166,6 +166,7 @@
       "toSide": "bottom"
     },
     {
+      "color": "1",
       "fromNode": "309a2490bf616752",
       "fromSide": "right",
       "id": "0a4e8b99cd0406b3",
@@ -175,6 +176,7 @@
       "toSide": "left"
     },
     {
+      "color": "#000000",
       "fromNode": "14adebbe2b78b58d",
       "fromSide": "right",
       "id": "d2c160644a3cdbd4",
@@ -184,6 +186,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "1ab70bf9cbbae49b",
       "fromSide": "right",
       "id": "1d0c51fa534e070f",
@@ -193,6 +196,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "32a56745728fa7c9",
       "fromSide": "right",
       "id": "cb2ffaa5a0c94f41",
@@ -202,6 +206,7 @@
       "toSide": "left"
     },
     {
+      "color": "#000000",
       "fromNode": "7541e5cfe8daa969",
       "fromSide": "right",
       "id": "048f8a211e17ab4b",
@@ -211,6 +216,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "c4bfb73d99e16921",
       "fromSide": "right",
       "id": "e4fdda1b7f0a4c1d",
@@ -220,6 +226,7 @@
       "toSide": "left"
     },
     {
+      "color": "#000000",
       "fromNode": "9456de4bc7fc9501",
       "fromSide": "right",
       "id": "5535bd3227b428ac",
@@ -229,6 +236,7 @@
       "toSide": "left"
     },
     {
+      "color": "3",
       "fromNode": "d0ada57c70088408",
       "fromSide": "right",
       "id": "175ca7f93e6204ba",
@@ -238,6 +246,7 @@
       "toSide": "left"
     },
     {
+      "color": "3",
       "fromNode": "738a42be83c9c908",
       "fromSide": "right",
       "id": "6aa28e5da1b389bb",
@@ -247,6 +256,7 @@
       "toSide": "left"
     },
     {
+      "color": "3",
       "fromNode": "61f7952a4e7081cc",
       "fromSide": "right",
       "id": "6b101a481eccb0a5",
@@ -256,6 +266,7 @@
       "toSide": "left"
     },
     {
+      "color": "3",
       "fromNode": "4b9f518e3e2e8169",
       "fromSide": "right",
       "id": "6bd144c35fb0495b",
@@ -265,6 +276,7 @@
       "toSide": "left"
     },
     {
+      "color": "6",
       "fromNode": "0539cbd3837534e3",
       "fromSide": "right",
       "id": "87aab19a7855c64b",
@@ -274,6 +286,7 @@
       "toSide": "left"
     },
     {
+      "color": "6",
       "fromNode": "d7250d17a3b82e89",
       "fromSide": "right",
       "id": "a6d8dbc55bc6a1ce",
@@ -303,6 +316,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "76c4879d65bbd049",
       "fromSide": "right",
       "id": "2892e80446a19e06",
@@ -372,6 +386,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "6b1ce6902e560841",
       "fromSide": "right",
       "id": "ee628c3a954dba2c",
@@ -381,6 +396,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "2528d6f309c18df7",
       "fromSide": "right",
       "id": "71bdba538705406b",
@@ -390,6 +406,7 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromNode": "bb748ffa6c07bb37",
       "fromSide": "right",
       "id": "5bb9e4bb971a52f5",
@@ -532,6 +549,24 @@
       "width": 900,
       "x": 1620,
       "y": -1120
+    },
+    {
+      "height": 200,
+      "id": "ff70156ecccb95bf",
+      "label": "Orinda/Fenn",
+      "type": "group",
+      "width": 2220,
+      "x": 4770,
+      "y": -200
+    },
+    {
+      "height": 100,
+      "id": "b682b0a7085be222",
+      "label": "Arch Aries",
+      "type": "group",
+      "width": 2220,
+      "x": 4770,
+      "y": 60
     },
     {
       "color": "5",
@@ -920,30 +955,6 @@
     },
     {
       "height": 60,
-      "id": "32a56745728fa7c9",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Martial\n",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 355
-    },
-    {
-      "height": 60,
-      "id": "7541e5cfe8daa969",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Metropolitan",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 455
-    },
-    {
-      "height": 60,
       "id": "2528d6f309c18df7",
       "styleAttributes": {
         "textAlign": "center"
@@ -965,30 +976,6 @@
       "width": 260,
       "x": 5280,
       "y": 955
-    },
-    {
-      "height": 60,
-      "id": "14adebbe2b78b58d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Preto",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 455
-    },
-    {
-      "height": 60,
-      "id": "309a2490bf616752",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Vermelho",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 355
     },
     {
       "height": 60,
@@ -1016,54 +1003,6 @@
     },
     {
       "height": 60,
-      "id": "1ab70bf9cbbae49b",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Foggy",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 355
-    },
-    {
-      "height": 60,
-      "id": "efd3124b9bafd6e6",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Roads\n",
-      "type": "text",
-      "width": 260,
-      "x": 6720,
-      "y": 355
-    },
-    {
-      "height": 60,
-      "id": "c4bfb73d99e16921",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fenn Aries\n",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 355
-    },
-    {
-      "height": 60,
-      "id": "9456de4bc7fc9501",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Orinda Aries",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 455
-    },
-    {
-      "height": 60,
       "id": "922dc56d73049b9e",
       "styleAttributes": {
         "textAlign": "center"
@@ -1088,30 +1027,6 @@
     },
     {
       "height": 60,
-      "id": "d0ada57c70088408",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Arch Aries",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 555
-    },
-    {
-      "height": 60,
-      "id": "738a42be83c9c908",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Industrial",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 555
-    },
-    {
-      "height": 60,
       "id": "05cb866d46c31bbd",
       "styleAttributes": {
         "textAlign": "center"
@@ -1123,42 +1038,7 @@
       "y": 1221
     },
     {
-      "height": 60,
-      "id": "61f7952a4e7081cc",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Amarelo",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 555
-    },
-    {
-      "height": 60,
-      "id": "4b9f518e3e2e8169",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Stormy",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 555
-    },
-    {
-      "height": 60,
-      "id": "de6b97708b4babad",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Train",
-      "type": "text",
-      "width": 260,
-      "x": 6720,
-      "y": 555
-    },
-    {
+      "color": "6",
       "height": 60,
       "id": "0539cbd3837534e3",
       "styleAttributes": {
@@ -1183,6 +1063,7 @@
       "y": 855
     },
     {
+      "color": "6",
       "height": 60,
       "id": "d7250d17a3b82e89",
       "styleAttributes": {
@@ -1195,6 +1076,7 @@
       "y": 645
     },
     {
+      "color": "6",
       "height": 60,
       "id": "4f25a2f18122fce1",
       "styleAttributes": {
@@ -1373,6 +1255,175 @@
       "width": 260,
       "x": 6240,
       "y": 1065
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "738a42be83c9c908",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Industrial",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": 75
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "de6b97708b4babad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 75
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "4b9f518e3e2e8169",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Stormy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 75
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "61f7952a4e7081cc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Amarelo",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": 75
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "d0ada57c70088408",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arch Aries",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": 75
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "32a56745728fa7c9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Martial\n",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": -185
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "7541e5cfe8daa969",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Metropolitan",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": -85
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "1ab70bf9cbbae49b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -185
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "efd3124b9bafd6e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roads\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -185
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preto",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -85
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "309a2490bf616752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vermelho",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -185
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "c4bfb73d99e16921",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fenn Aries\n",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -185
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "9456de4bc7fc9501",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Orinda Aries",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -85
     }
   ]
 }
