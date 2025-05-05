@@ -183,6 +183,8 @@
       "height": 1720,
       "id": "3adc459f32fccc53",
       "label": "Sigils",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 3180,
       "x": 4660,
@@ -205,6 +207,8 @@
       "height": 1550,
       "id": "a46471446db23ebe",
       "label": "Cores",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 400,
       "x": 4760,
@@ -214,6 +218,8 @@
       "height": 1550,
       "id": "b9fd291eb3c12135",
       "label": "Clima",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 400,
       "x": 5240,
@@ -223,6 +229,8 @@
       "height": 1550,
       "id": "f67931fd047446ae",
       "label": "Transporte",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 400,
       "x": 5720,
@@ -232,6 +240,8 @@
       "height": 1550,
       "id": "8430a3e3c76990d2",
       "label": "Sociedade",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 400,
       "x": 6200,
@@ -241,6 +251,8 @@
       "height": 1550,
       "id": "fe6500a534bacb00",
       "label": "País",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 400,
       "x": 6680,
@@ -271,51 +283,6 @@
       "y": -1620
     },
     {
-      "file": "Music Sheets/1.png",
-      "height": 226,
-      "id": "b676644ef7dcf71f",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -220,
-      "y": -1060
-    },
-    {
-      "file": "Music Sheets/5.png",
-      "height": 226,
-      "id": "5ac2660fd0fe593a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -220,
-      "y": -794
-    },
-    {
-      "file": "Cartas/Hovel_2.png",
-      "height": 226,
-      "id": "40b7320fe6911e8d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -20,
-      "y": -1760
-    },
-    {
-      "height": 60,
-      "id": "82cbd339aa9425a1",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "8 portas do basement?",
-      "type": "text",
-      "width": 260,
-      "x": 50,
-      "y": -1440
-    },
-    {
       "file": "E-Mails/Office_01-11-1993.png",
       "height": 226,
       "id": "af8b251e7d0c3892",
@@ -336,6 +303,42 @@
       "width": 400,
       "x": 1649,
       "y": -817
+    },
+    {
+      "height": 60,
+      "id": "9456de4bc7fc9501",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Orinda Aries",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 360
+    },
+    {
+      "height": 60,
+      "id": "c4bfb73d99e16921",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fenn Aries\n",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "922dc56d73049b9e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vera",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 840
     },
     {
       "file": "E-Mails/Office_05-10_1985.png",
@@ -465,28 +468,6 @@
       "y": -794
     },
     {
-      "file": "Pessoas/Anne Babbage.md",
-      "height": 60,
-      "id": "8cc9d16c08f54e9e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 260,
-      "x": 2400,
-      "y": -1560
-    },
-    {
-      "file": "Pessoas/Heartley ????.md",
-      "height": 60,
-      "id": "2aa54816d9d34ad2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 260,
-      "x": 2400,
-      "y": -1479
-    },
-    {
       "file": "Classroom/Geografia/11.png",
       "height": 226,
       "id": "97f8024e8cdfc34e",
@@ -496,39 +477,6 @@
       "width": 400,
       "x": 3480,
       "y": 720
-    },
-    {
-      "file": "Classroom/Geografia/07.png",
-      "height": 226,
-      "id": "8f423f1b77c3041c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3700,
-      "y": 180
-    },
-    {
-      "file": "Classroom/Historia/10.png",
-      "height": 226,
-      "id": "562a7cdd73089ef6",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3110,
-      "y": 180
-    },
-    {
-      "file": "Classroom/Geografia/10.png",
-      "height": 226,
-      "id": "311d4c098888f2c7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 440
     },
     {
       "file": "Classroom/Geografia/12.png",
@@ -552,17 +500,6 @@
       "width": 260,
       "x": 3180,
       "y": 501
-    },
-    {
-      "file": "Classroom/Geografia/09.png",
-      "height": 226,
-      "id": "f7db7c3f147911a5",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3480,
-      "y": 440
     },
     {
       "file": "Classroom/Geografia/03.png",
@@ -632,6 +569,153 @@
       "y": 1226
     },
     {
+      "file": "Pessoas/Anne Babbage.md",
+      "height": 60,
+      "id": "8cc9d16c08f54e9e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 2400,
+      "y": -1560
+    },
+    {
+      "file": "Classroom/Geografia/07.png",
+      "height": 226,
+      "id": "8f423f1b77c3041c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3700,
+      "y": 180
+    },
+    {
+      "file": "Classroom/Geografia/10.png",
+      "height": 226,
+      "id": "311d4c098888f2c7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "0539cbd3837534e3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Eraja",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 520
+    },
+    {
+      "height": 60,
+      "id": "04b16ff4cdbf614b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Corarica",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "d0ada57c70088408",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arch Aries",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "6b1ce6902e560841",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mora  Jai",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 760
+    },
+    {
+      "file": "Music Sheets/1.png",
+      "height": 226,
+      "id": "b676644ef7dcf71f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/5.png",
+      "height": 226,
+      "id": "5ac2660fd0fe593a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -794
+    },
+    {
+      "file": "Cartas/Hovel_2.png",
+      "height": 226,
+      "id": "40b7320fe6911e8d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -20,
+      "y": -1760
+    },
+    {
+      "file": "Pessoas/Heartley ????.md",
+      "height": 60,
+      "id": "2aa54816d9d34ad2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 2400,
+      "y": -1479
+    },
+    {
+      "file": "Classroom/Historia/10.png",
+      "height": 226,
+      "id": "562a7cdd73089ef6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3110,
+      "y": 180
+    },
+    {
+      "file": "Classroom/Geografia/09.png",
+      "height": 226,
+      "id": "f7db7c3f147911a5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3480,
+      "y": 440
+    },
+    {
       "height": 180,
       "id": "29999c10df29c3cc",
       "styleAttributes": {
@@ -649,11 +733,239 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "",
+      "text": "Preto",
       "type": "text",
       "width": 260,
       "x": 4820,
       "y": 360
+    },
+    {
+      "height": 60,
+      "id": "82cbd339aa9425a1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "8 portas do basement?",
+      "type": "text",
+      "width": 260,
+      "x": 50,
+      "y": -1440
+    },
+    {
+      "height": 60,
+      "id": "51f7a86447cc521f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Naunce",
+      "type": "text",
+      "width": 260,
+      "x": 6760,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "3244c42b095d89a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Naval",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "efd3124b9bafd6e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roads\n",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "459b06c796d7e88c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Horseback",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 540
+    },
+    {
+      "height": 60,
+      "id": "de6b97708b4babad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 620
+    },
+    {
+      "height": 60,
+      "id": "c404f302aa7bdc28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Aviation",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 700
+    },
+    {
+      "height": 60,
+      "id": "2230e3e5340c0f8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Camels\n",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 780
+    },
+    {
+      "height": 60,
+      "id": "67e41645759c7600",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Turtleback",
+      "type": "text",
+      "width": 260,
+      "x": 5800,
+      "y": 860
+    },
+    {
+      "height": 60,
+      "id": "d7250d17a3b82e89",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Poetic",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 1090
+    },
+    {
+      "height": 60,
+      "id": "8868a376b8ff306a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Spiritual",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 990
+    },
+    {
+      "height": 60,
+      "id": "2528d6f309c18df7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Academic\n",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 790
+    },
+    {
+      "height": 60,
+      "id": "738a42be83c9c908",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Industrial",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 890
+    },
+    {
+      "height": 60,
+      "id": "7541e5cfe8daa969",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Metropolitan",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 690
+    },
+    {
+      "height": 60,
+      "id": "32a56745728fa7c9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Martial\n",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 590
+    },
+    {
+      "height": 60,
+      "id": "5d2cc30ce0f159c5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Agricultural",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 490
+    },
+    {
+      "height": 60,
+      "id": "f6d95dc395b57511",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tribal",
+      "type": "text",
+      "width": 260,
+      "x": 6280,
+      "y": 390
+    },
+    {
+      "height": 60,
+      "id": "309a2490bf616752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vermelho",
+      "type": "text",
+      "width": 260,
+      "x": 4760,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "05cb866d46c31bbd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 4780,
+      "y": 600
     }
   ]
 }
