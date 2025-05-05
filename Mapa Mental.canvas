@@ -174,9 +174,19 @@
       "styleAttributes": {
       },
       "type": "group",
-      "width": 1300,
+      "width": 4880,
       "x": 3040,
       "y": 160
+    },
+    {
+      "color": "6",
+      "height": 1720,
+      "id": "3adc459f32fccc53",
+      "label": "Sigils",
+      "type": "group",
+      "width": 3180,
+      "x": 4660,
+      "y": 240
     },
     {
       "color": "3",
@@ -190,6 +200,51 @@
       "width": 1840,
       "x": -280,
       "y": -1120
+    },
+    {
+      "height": 1550,
+      "id": "a46471446db23ebe",
+      "label": "Cores",
+      "type": "group",
+      "width": 400,
+      "x": 4760,
+      "y": 330
+    },
+    {
+      "height": 1550,
+      "id": "b9fd291eb3c12135",
+      "label": "Clima",
+      "type": "group",
+      "width": 400,
+      "x": 5240,
+      "y": 330
+    },
+    {
+      "height": 1550,
+      "id": "f67931fd047446ae",
+      "label": "Transporte",
+      "type": "group",
+      "width": 400,
+      "x": 5720,
+      "y": 330
+    },
+    {
+      "height": 1550,
+      "id": "8430a3e3c76990d2",
+      "label": "Sociedade",
+      "type": "group",
+      "width": 400,
+      "x": 6200,
+      "y": 330
+    },
+    {
+      "height": 1550,
+      "id": "fe6500a534bacb00",
+      "label": "País",
+      "type": "group",
+      "width": 400,
+      "x": 6680,
+      "y": 330
     },
     {
       "color": "4",
@@ -487,17 +542,6 @@
       "y": 720
     },
     {
-      "file": "Classroom/Geografia/03.png",
-      "height": 226,
-      "id": "f2f8e25e670bb50d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3240,
-      "y": 1226
-    },
-    {
       "height": 103,
       "id": "81de64e5784e0373",
       "styleAttributes": {
@@ -519,6 +563,17 @@
       "width": 400,
       "x": 3480,
       "y": 440
+    },
+    {
+      "file": "Classroom/Geografia/03.png",
+      "height": 226,
+      "id": "f2f8e25e670bb50d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3240,
+      "y": 1226
     },
     {
       "file": "Notas (Nossas)/Pasted image 20250425174650.png",
@@ -587,6 +642,18 @@
       "width": 260,
       "x": 3740,
       "y": 1620
+    },
+    {
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 4820,
+      "y": 360
     }
   ]
 }
