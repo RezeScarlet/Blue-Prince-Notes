@@ -386,7 +386,7 @@
       "toSide": "left"
     },
     {
-      "color": "1",
+      "color": "2",
       "fromNode": "04b16ff4cdbf614b",
       "fromSide": "right",
       "id": "54ec00023c3ff31a",
@@ -442,6 +442,15 @@
       },
       "toNode": "bb748ffa6c07bb37",
       "toSide": "left"
+    },
+    {
+      "fromNode": "0ca5eb308c611300",
+      "fromSide": "bottom",
+      "id": "50eb3d2aa0bf6b74",
+      "styleAttributes": {
+      },
+      "toNode": "9db665163e75a384",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -969,6 +978,7 @@
       "y": 980
     },
     {
+      "color": "2",
       "height": 60,
       "id": "04b16ff4cdbf614b",
       "styleAttributes": {
@@ -1157,18 +1167,6 @@
       "y": 965
     },
     {
-      "height": 60,
-      "id": "2230e3e5340c0f8f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Camels\n",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1176
-    },
-    {
       "color": "3",
       "height": 60,
       "id": "61f7952a4e7081cc",
@@ -1206,30 +1204,6 @@
       "width": 260,
       "x": 6230,
       "y": -185
-    },
-    {
-      "height": 60,
-      "id": "ee33179ff604fae4",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Heat",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 1176
-    },
-    {
-      "height": 60,
-      "id": "377dfd08b808354d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Laranja",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 1176
     },
     {
       "height": 60,
@@ -1445,11 +1419,48 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "**Cada cor uma vez**\n- Azul: blueprint e lago\n- Vermelho: carrinho e hidrante\n- Verde: brócolis\n- Laranja: abobora\n- Roxo: uva\n- Amarelo: banana",
+      "text": "**Cada cor uma vez**\n- Azul: blueprint e lago\n- Vermelho: carrinho e hidrante\n- Verde: brócolis, lagarto\n- Laranja: abobora, Corarica\n- Roxo: uva e Erajan\n- Amarelo: banana Arch Aries",
       "type": "text",
       "width": 300,
       "x": 7140,
       "y": 720
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "377dfd08b808354d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Laranja",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1161
+    },
+    {
+      "height": 60,
+      "id": "ee33179ff604fae4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Heat",
+      "type": "text",
+      "width": 260,
+      "x": 6240,
+      "y": 1161
+    },
+    {
+      "height": 60,
+      "id": "2230e3e5340c0f8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Camels\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1161
     }
   ]
 }
