@@ -406,23 +406,41 @@
       "toSide": "left"
     },
     {
-      "color": "4",
+      "color": "#ffffff",
       "fromNode": "6b1ce6902e560841",
       "fromSide": "right",
-      "id": "2340a5b9093e2d3e",
+      "id": "97e3b28107cc0f12",
       "styleAttributes": {
       },
-      "toNode": "bb748ffa6c07bb37",
+      "toNode": "273598ae8a97cfe3",
       "toSide": "left"
     },
     {
-      "color": "4",
-      "fromNode": "bb748ffa6c07bb37",
+      "color": "#ffffff",
+      "fromNode": "273598ae8a97cfe3",
       "fromSide": "right",
-      "id": "ea0825a0dbb2e5dc",
+      "id": "247a1d0e1e54c3c6",
       "styleAttributes": {
       },
       "toNode": "3244c42b095d89a4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "922dc56d73049b9e",
+      "fromSide": "right",
+      "id": "b43fda78c0ca4913",
+      "styleAttributes": {
+      },
+      "toNode": "f6d95dc395b57511",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f6d95dc395b57511",
+      "fromSide": "right",
+      "id": "610f0a98e0cbcb1e",
+      "styleAttributes": {
+      },
+      "toNode": "bb748ffa6c07bb37",
       "toSide": "left"
     }
   ],
@@ -897,18 +915,6 @@
     },
     {
       "height": 60,
-      "id": "922dc56d73049b9e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Vera",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 945
-    },
-    {
-      "height": 60,
       "id": "51f7a86447cc521f",
       "styleAttributes": {
         "textAlign": "center"
@@ -930,18 +936,6 @@
       "width": 260,
       "x": 5740,
       "y": 1221
-    },
-    {
-      "height": 60,
-      "id": "273598ae8a97cfe3",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Branco",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 1320
     },
     {
       "height": 60,
@@ -1374,20 +1368,7 @@
       "y": 360
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "bb748ffa6c07bb37",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Verde",
-      "type": "text",
-      "width": 260,
-      "x": 5730,
-      "y": 505
-    },
-    {
-      "color": "4",
+      "color": "#ffffff",
       "height": 60,
       "id": "3244c42b095d89a4",
       "styleAttributes": {
@@ -1400,7 +1381,7 @@
       "y": 505
     },
     {
-      "color": "4",
+      "color": "#ffffff",
       "height": 60,
       "id": "6b1ce6902e560841",
       "styleAttributes": {
@@ -1411,6 +1392,43 @@
       "width": 260,
       "x": 4800,
       "y": 505
+    },
+    {
+      "height": 60,
+      "id": "bb748ffa6c07bb37",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verde",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 705
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "273598ae8a97cfe3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Branco",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 505
+    },
+    {
+      "height": 60,
+      "id": "922dc56d73049b9e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verra",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 675
     }
   ]
 }
