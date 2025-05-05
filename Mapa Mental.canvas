@@ -443,17 +443,6 @@
       "y": 720
     },
     {
-      "file": "Classroom/Geografia/05.png",
-      "height": 226,
-      "id": "35947679f4579c4e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3440,
-      "y": 980
-    },
-    {
       "file": "Classroom/Geografia/07.png",
       "height": 226,
       "id": "8f423f1b77c3041c",
@@ -487,17 +476,6 @@
       "y": 440
     },
     {
-      "file": "Livros/Realm & Rune/06.jpg",
-      "height": 226,
-      "id": "aac32dd6b6f5f78b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 980
-    },
-    {
       "file": "Classroom/Geografia/12.png",
       "height": 226,
       "id": "a48f916beac9dd66",
@@ -509,18 +487,6 @@
       "y": 720
     },
     {
-      "height": 131,
-      "id": "6a76c36654c1c61c",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
-      "type": "text",
-      "width": 220,
-      "x": 4100,
-      "y": 1300
-    },
-    {
       "file": "Classroom/Geografia/03.png",
       "height": 226,
       "id": "f2f8e25e670bb50d",
@@ -529,17 +495,6 @@
       "type": "file",
       "width": 400,
       "x": 3240,
-      "y": 1226
-    },
-    {
-      "file": "Classroom/Geografia/04.png",
-      "height": 226,
-      "id": "f86a5a297d5d8aa0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3660,
       "y": 1226
     },
     {
@@ -575,6 +530,51 @@
       "width": 180,
       "x": 3220,
       "y": 694
+    },
+    {
+      "file": "Classroom/Geografia/05.png",
+      "height": 226,
+      "id": "35947679f4579c4e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3440,
+      "y": 980
+    },
+    {
+      "file": "Livros/Realm & Rune/06.jpg",
+      "height": 226,
+      "id": "aac32dd6b6f5f78b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 980
+    },
+    {
+      "height": 131,
+      "id": "6a76c36654c1c61c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
+      "type": "text",
+      "width": 220,
+      "x": 4100,
+      "y": 1300
+    },
+    {
+      "file": "Classroom/Geografia/04.png",
+      "height": 226,
+      "id": "f86a5a297d5d8aa0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3660,
+      "y": 1226
     },
     {
       "height": 180,
