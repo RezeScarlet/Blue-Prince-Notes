@@ -1561,15 +1561,15 @@
       "y": -320
     },
     {
-      "height": 260,
+      "height": 220,
       "id": "3ae04f0412735109",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "- [ ] \n",
+      "text": "- [x] Room 46\n- [ ] Vault\n- [x] Clock Tower\n- [x] Reservoir\n- [ ] Drawing Room, Office?\n- [x] Station\n- [x] Music Room\n- [ ] Last Door??",
       "type": "text",
-      "width": 260,
-      "x": -240,
+      "width": 220,
+      "x": -221,
       "y": 400
     }
   ]
