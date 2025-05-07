@@ -286,26 +286,6 @@
       "toSide": "left"
     },
     {
-      "color": "1",
-      "fromNode": "76c4879d65bbd049",
-      "fromSide": "right",
-      "id": "10d7f5d4ec11e53f",
-      "styleAttributes": {
-      },
-      "toNode": "c404f302aa7bdc28",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "75d6f84f7043b775",
-      "fromSide": "right",
-      "id": "46d8a95406a595de",
-      "styleAttributes": {
-      },
-      "toNode": "459b06c796d7e88c",
-      "toSide": "left"
-    },
-    {
       "color": "2",
       "fromNode": "04b16ff4cdbf614b",
       "fromSide": "right",
@@ -322,17 +302,7 @@
       "id": "97e3b28107cc0f12",
       "styleAttributes": {
       },
-      "toNode": "273598ae8a97cfe3",
-      "toSide": "left"
-    },
-    {
-      "color": "#ffffff",
-      "fromNode": "273598ae8a97cfe3",
-      "fromSide": "right",
-      "id": "247a1d0e1e54c3c6",
-      "styleAttributes": {
-      },
-      "toNode": "3244c42b095d89a4",
+      "toNode": "5d2cc30ce0f159c5",
       "toSide": "left"
     },
     {
@@ -461,6 +431,76 @@
       "styleAttributes": {
       },
       "toNode": "f6d95dc395b57511",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "5d2cc30ce0f159c5",
+      "fromSide": "right",
+      "id": "7f0bd9715c5c5a1c",
+      "styleAttributes": {
+      },
+      "toNode": "273598ae8a97cfe3",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "273598ae8a97cfe3",
+      "fromSide": "right",
+      "id": "cc514b5819e50aaf",
+      "styleAttributes": {
+      },
+      "toNode": "75d6f84f7043b775",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "75d6f84f7043b775",
+      "fromSide": "right",
+      "id": "d1a14c6a643b3315",
+      "styleAttributes": {
+      },
+      "toNode": "3244c42b095d89a4",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "bb748ffa6c07bb37",
+      "fromSide": "right",
+      "id": "c8a2c73ee7038743",
+      "styleAttributes": {
+      },
+      "toNode": "76c4879d65bbd049",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "76c4879d65bbd049",
+      "fromSide": "right",
+      "id": "a6e974b9a9fd2d20",
+      "styleAttributes": {
+      },
+      "toNode": "c404f302aa7bdc28",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "377dfd08b808354d",
+      "fromSide": "right",
+      "id": "8e51744710c93abc",
+      "styleAttributes": {
+      },
+      "toNode": "57b85af42865ee42",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "57b85af42865ee42",
+      "fromSide": "right",
+      "id": "e83ad1d83d4365ee",
+      "styleAttributes": {
+      },
+      "toNode": "459b06c796d7e88c",
       "toSide": "left"
     }
   ],
@@ -864,18 +904,6 @@
       "y": -1440
     },
     {
-      "height": 60,
-      "id": "57b85af42865ee42",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Snow",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
-      "y": 615
-    },
-    {
       "color": "2",
       "height": 60,
       "id": "377dfd08b808354d",
@@ -887,42 +915,6 @@
       "width": 260,
       "x": 5740,
       "y": 1161
-    },
-    {
-      "height": 60,
-      "id": "c404f302aa7bdc28",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Aviation",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1055
-    },
-    {
-      "height": 60,
-      "id": "2230e3e5340c0f8f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Camels\n",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1161
-    },
-    {
-      "height": 60,
-      "id": "76c4879d65bbd049",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Windy",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 1055
     },
     {
       "color": "4",
@@ -1365,30 +1357,6 @@
       "y": 720
     },
     {
-      "height": 60,
-      "id": "459b06c796d7e88c",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Horseback",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 965
-    },
-    {
-      "height": 60,
-      "id": "75d6f84f7043b775",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Normal\n",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 955
-    },
-    {
       "color": "3",
       "height": 60,
       "id": "d0ada57c70088408",
@@ -1558,6 +1526,7 @@
       "y": 1025
     },
     {
+      "color": "#ffffff",
       "height": 60,
       "id": "5d2cc30ce0f159c5",
       "styleAttributes": {
@@ -1568,6 +1537,83 @@
       "width": 260,
       "x": 5280,
       "y": 505
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "75d6f84f7043b775",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Normal\n",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 505
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "76c4879d65bbd049",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Windy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 1025
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c404f302aa7bdc28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Aviation",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1025
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "57b85af42865ee42",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Snow",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 1161
+    },
+    {
+      "height": 60,
+      "id": "2230e3e5340c0f8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Camels\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1440
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "459b06c796d7e88c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Horseback",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1161
     }
   ]
 }
