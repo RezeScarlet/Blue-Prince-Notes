@@ -462,6 +462,15 @@
       },
       "toNode": "67e41645759c7600",
       "toSide": "left"
+    },
+    {
+      "fromNode": "da0ef751929bf799",
+      "fromSide": "bottom",
+      "id": "be6409b218ccee64",
+      "styleAttributes": {
+      },
+      "toNode": "3ae04f0412735109",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -658,6 +667,30 @@
       "y": -1079
     },
     {
+      "file": "Music Sheets/4.png",
+      "height": 226,
+      "id": "a0897c250f1e303e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -1060
+    },
+    {
+      "height": 60,
+      "id": "c003ea1e274b8268",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": " Find among the white trees under two stones",
+      "type": "text",
+      "width": 272,
+      "x": 828,
+      "y": -509
+    },
+    {
       "file": "E-Mails/Office_08-10-1993.png",
       "height": 226,
       "id": "09b03320c6131bf2",
@@ -714,30 +747,6 @@
       "y": -1060
     },
     {
-      "file": "Music Sheets/4.png",
-      "height": 226,
-      "id": "a0897c250f1e303e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1100,
-      "y": -1060
-    },
-    {
-      "height": 60,
-      "id": "c003ea1e274b8268",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": " Find among the white trees under two stones",
-      "type": "text",
-      "width": 272,
-      "x": 828,
-      "y": -509
-    },
-    {
       "file": "Music Sheets/8.png",
       "height": 226,
       "id": "525e081413ca7b50",
@@ -746,6 +755,17 @@
       "type": "file",
       "width": 400,
       "x": 1100,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/7.png",
+      "height": 226,
+      "id": "e9ea0ac916fcb6d0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 660,
       "y": -794
     },
     {
@@ -772,17 +792,6 @@
       "width": 260,
       "x": 500,
       "y": -509
-    },
-    {
-      "file": "Music Sheets/7.png",
-      "height": 226,
-      "id": "e9ea0ac916fcb6d0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 660,
-      "y": -794
     },
     {
       "file": "Music Sheets/1.png",
@@ -818,6 +827,19 @@
       "y": -794
     },
     {
+      "color": "3",
+      "height": 60,
+      "id": "d0ada57c70088408",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arch Aries",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -865
+    },
+    {
       "file": "Cartas/Hovel_2.png",
       "height": 226,
       "id": "40b7320fe6911e8d",
@@ -841,6 +863,143 @@
       "y": -1440
     },
     {
+      "file": "Salas/Classroom/Cor/3.png",
+      "height": 452,
+      "id": "0ca5eb308c611300",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": 7120,
+      "y": 256
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4332baa447b7eb2f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rainy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -660
+    },
+    {
+      "height": 305,
+      "id": "9db665163e75a384",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cada cor uma vez**\n- Azul: blueprint e lago\n- Vermelho: carrinho e hidrante\n- Verde: brócolis, lagarto\n- Laranja: abobora, Corarica\n- Roxo: uva e Erajan\n- Amarelo: banana Arch Aries",
+      "type": "text",
+      "width": 300,
+      "x": 7140,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "459b06c796d7e88c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Horseback",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 965
+    },
+    {
+      "height": 60,
+      "id": "75d6f84f7043b775",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Normal\n",
+      "type": "text",
+      "width": 260,
+      "x": 6240,
+      "y": 955
+    },
+    {
+      "height": 60,
+      "id": "bb748ffa6c07bb37",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verde",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 675
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "922dc56d73049b9e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verra",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "ee33179ff604fae4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Heat",
+      "type": "text",
+      "width": 260,
+      "x": 6180,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "67e41645759c7600",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Turtleback",
+      "type": "text",
+      "width": 260,
+      "x": 6660,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "8868a376b8ff306a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Spiritual",
+      "type": "text",
+      "width": 260,
+      "x": 5230,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "05cb866d46c31bbd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rosa\n",
+      "type": "text",
+      "width": 260,
+      "x": 5690,
+      "y": -180
+    },
+    {
       "color": "1",
       "height": 60,
       "id": "1ab70bf9cbbae49b",
@@ -852,19 +1011,6 @@
       "width": 260,
       "x": 6230,
       "y": -465
-    },
-    {
-      "color": "#000000",
-      "height": 60,
-      "id": "7f57f93115d97a20",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Foggy",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
-      "y": -365
     },
     {
       "color": "6",
@@ -882,6 +1028,19 @@
     {
       "color": "#000000",
       "height": 60,
+      "id": "103607ca6c7f2b7f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
       "id": "9456de4bc7fc9501",
       "styleAttributes": {
         "textAlign": "center"
@@ -890,6 +1049,389 @@
       "type": "text",
       "width": 260,
       "x": 4790,
+      "y": -365
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "c4bfb73d99e16921",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fenn Aries\n",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -465
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0539cbd3837534e3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Eraja",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": -660
+    },
+    {
+      "height": 60,
+      "id": "51f7a86447cc521f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Naunce",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 1025
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "04b16ff4cdbf614b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Corarica",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 1161
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preto",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -365
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "309a2490bf616752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vermelho",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -465
+    },
+    {
+      "file": "Livros/Realm & Rune/06.jpg",
+      "height": 226,
+      "id": "aac32dd6b6f5f78b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 980
+    },
+    {
+      "height": 180,
+      "id": "29999c10df29c3cc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arch Aries -> Stormy\nEraja -> Magic & Poetry\nOrinda Aries -> Military?\nRailways on all of em",
+      "type": "text",
+      "width": 260,
+      "x": 3740,
+      "y": 1620
+    },
+    {
+      "file": "Classroom/Geografia/04.png",
+      "height": 226,
+      "id": "f86a5a297d5d8aa0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3660,
+      "y": 1226
+    },
+    {
+      "height": 131,
+      "id": "6a76c36654c1c61c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
+      "type": "text",
+      "width": 220,
+      "x": 4100,
+      "y": 1300
+    },
+    {
+      "file": "Classroom/Geografia/09.png",
+      "height": 226,
+      "id": "f7db7c3f147911a5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3480,
+      "y": 440
+    },
+    {
+      "file": "Classroom/Geografia/10.png",
+      "height": 226,
+      "id": "311d4c098888f2c7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "f6d95dc395b57511",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tribal",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 675
+    },
+    {
+      "height": 60,
+      "id": "5d2cc30ce0f159c5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Agricultural",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 855
+    },
+    {
+      "height": 60,
+      "id": "2528d6f309c18df7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Academic\n",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": 1025
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "6b1ce6902e560841",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mora  Jai",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 505
+    },
+    {
+      "file": "Notas (Nossas)/Pasted image 20250425174650.png",
+      "height": 252,
+      "id": "9a27f892e8fc79d9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 180,
+      "x": 3220,
+      "y": 694
+    },
+    {
+      "height": 103,
+      "id": "81de64e5784e0373",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Guerra civil dentro de Orinda\nFenn (Vermelho) X Orinda (Preto)",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": 501
+    },
+    {
+      "file": "Classroom/Geografia/05.png",
+      "height": 226,
+      "id": "35947679f4579c4e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3440,
+      "y": 980
+    },
+    {
+      "file": "Classroom/Historia/10.png",
+      "height": 226,
+      "id": "562a7cdd73089ef6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3110,
+      "y": 180
+    },
+    {
+      "file": "Classroom/Geografia/07.png",
+      "height": 226,
+      "id": "8f423f1b77c3041c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3700,
+      "y": 180
+    },
+    {
+      "file": "Classroom/Geografia/11.png",
+      "height": 226,
+      "id": "97f8024e8cdfc34e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3480,
+      "y": 720
+    },
+    {
+      "file": "Classroom/Geografia/12.png",
+      "height": 226,
+      "id": "a48f916beac9dd66",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3920,
+      "y": 720
+    },
+    {
+      "file": "Classroom/Geografia/03.png",
+      "height": 226,
+      "id": "f2f8e25e670bb50d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3240,
+      "y": 1226
+    },
+    {
+      "height": 60,
+      "id": "57b85af42865ee42",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Snow",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 615
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "377dfd08b808354d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Laranja",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1161
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "3244c42b095d89a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Naval",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 505
+    },
+    {
+      "height": 60,
+      "id": "c404f302aa7bdc28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Aviation",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1055
+    },
+    {
+      "height": 60,
+      "id": "2230e3e5340c0f8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Camels\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1161
+    },
+    {
+      "height": 60,
+      "id": "76c4879d65bbd049",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Windy",
+      "type": "text",
+      "width": 260,
+      "x": 6240,
+      "y": 1055
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "273598ae8a97cfe3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Branco",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 505
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "7f57f93115d97a20",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
       "y": -365
     },
     {
@@ -908,19 +1450,6 @@
     {
       "color": "1",
       "height": 60,
-      "id": "c4bfb73d99e16921",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fenn Aries\n",
-      "type": "text",
-      "width": 260,
-      "x": 4790,
-      "y": -465
-    },
-    {
-      "color": "1",
-      "height": 60,
       "id": "32a56745728fa7c9",
       "styleAttributes": {
         "textAlign": "center"
@@ -929,58 +1458,6 @@
       "type": "text",
       "width": 260,
       "x": 5270,
-      "y": -465
-    },
-    {
-      "color": "#000000",
-      "height": 60,
-      "id": "14adebbe2b78b58d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Preto",
-      "type": "text",
-      "width": 260,
-      "x": 5730,
-      "y": -365
-    },
-    {
-      "color": "#000000",
-      "height": 60,
-      "id": "103607ca6c7f2b7f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Train",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": -365
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "4332baa447b7eb2f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Rainy",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
-      "y": -660
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "309a2490bf616752",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Vermelho",
-      "type": "text",
-      "width": 260,
-      "x": 5730,
       "y": -465
     },
     {
@@ -1062,19 +1539,6 @@
       "y": -660
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "0539cbd3837534e3",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Eraja",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": -660
-    },
-    {
       "color": "3",
       "height": 60,
       "id": "738a42be83c9c908",
@@ -1088,459 +1552,25 @@
       "y": -865
     },
     {
-      "color": "3",
-      "height": 60,
-      "id": "d0ada57c70088408",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Arch Aries",
-      "type": "text",
-      "width": 260,
-      "x": 4790,
-      "y": -865
-    },
-    {
-      "height": 305,
-      "id": "9db665163e75a384",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Cada cor uma vez**\n- Azul: blueprint e lago\n- Vermelho: carrinho e hidrante\n- Verde: brócolis, lagarto\n- Laranja: abobora, Corarica\n- Roxo: uva e Erajan\n- Amarelo: banana Arch Aries",
-      "type": "text",
-      "width": 300,
-      "x": 7140,
-      "y": 720
-    },
-    {
-      "file": "Notas (Nossas)/Pasted image 20250425174650.png",
-      "height": 252,
-      "id": "9a27f892e8fc79d9",
-      "styleAttributes": {
-      },
+      "file": "Salas/Room_46/Room46_7.png",
+      "height": 600,
+      "id": "da0ef751929bf799",
       "type": "file",
-      "width": 180,
-      "x": 3220,
-      "y": 694
+      "width": 1063,
+      "x": -643,
+      "y": -320
     },
     {
-      "height": 103,
-      "id": "81de64e5784e0373",
+      "height": 260,
+      "id": "3ae04f0412735109",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Guerra civil dentro de Orinda\nFenn (Vermelho) X Orinda (Preto)",
+      "text": "- [ ] \n",
       "type": "text",
       "width": 260,
-      "x": 3180,
-      "y": 501
-    },
-    {
-      "file": "Classroom/Geografia/05.png",
-      "height": 226,
-      "id": "35947679f4579c4e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3440,
-      "y": 980
-    },
-    {
-      "file": "Livros/Realm & Rune/06.jpg",
-      "height": 226,
-      "id": "aac32dd6b6f5f78b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 980
-    },
-    {
-      "height": 180,
-      "id": "29999c10df29c3cc",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Arch Aries -> Stormy\nEraja -> Magic & Poetry\nOrinda Aries -> Military?\nRailways on all of em",
-      "type": "text",
-      "width": 260,
-      "x": 3740,
-      "y": 1620
-    },
-    {
-      "file": "Classroom/Geografia/04.png",
-      "height": 226,
-      "id": "f86a5a297d5d8aa0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3660,
-      "y": 1226
-    },
-    {
-      "height": 131,
-      "id": "6a76c36654c1c61c",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Vera possui duas ilhas, logo deve usar transporte aquático",
-      "type": "text",
-      "width": 220,
-      "x": 4100,
-      "y": 1300
-    },
-    {
-      "file": "Classroom/Geografia/09.png",
-      "height": 226,
-      "id": "f7db7c3f147911a5",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3480,
-      "y": 440
-    },
-    {
-      "file": "Classroom/Geografia/10.png",
-      "height": 226,
-      "id": "311d4c098888f2c7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 440
-    },
-    {
-      "file": "Classroom/Historia/10.png",
-      "height": 226,
-      "id": "562a7cdd73089ef6",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3110,
-      "y": 180
-    },
-    {
-      "file": "Classroom/Geografia/07.png",
-      "height": 226,
-      "id": "8f423f1b77c3041c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3700,
-      "y": 180
-    },
-    {
-      "file": "Salas/Classroom/Cor/3.png",
-      "height": 452,
-      "id": "0ca5eb308c611300",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": 7120,
-      "y": 256
-    },
-    {
-      "file": "Classroom/Geografia/11.png",
-      "height": 226,
-      "id": "97f8024e8cdfc34e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3480,
-      "y": 720
-    },
-    {
-      "file": "Classroom/Geografia/12.png",
-      "height": 226,
-      "id": "a48f916beac9dd66",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3920,
-      "y": 720
-    },
-    {
-      "file": "Classroom/Geografia/03.png",
-      "height": 226,
-      "id": "f2f8e25e670bb50d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3240,
-      "y": 1226
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "377dfd08b808354d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Laranja",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 1161
-    },
-    {
-      "color": "#ffffff",
-      "height": 60,
-      "id": "3244c42b095d89a4",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Naval",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 505
-    },
-    {
-      "height": 60,
-      "id": "c404f302aa7bdc28",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Aviation",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1055
-    },
-    {
-      "height": 60,
-      "id": "459b06c796d7e88c",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Horseback",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 965
-    },
-    {
-      "height": 60,
-      "id": "2230e3e5340c0f8f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Camels\n",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1161
-    },
-    {
-      "height": 60,
-      "id": "75d6f84f7043b775",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Normal\n",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 955
-    },
-    {
-      "height": 60,
-      "id": "76c4879d65bbd049",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Windy",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 1055
-    },
-    {
-      "height": 60,
-      "id": "2528d6f309c18df7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Academic\n",
-      "type": "text",
-      "width": 260,
-      "x": 5270,
-      "y": 1025
-    },
-    {
-      "color": "#ffffff",
-      "height": 60,
-      "id": "6b1ce6902e560841",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Mora  Jai",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 505
-    },
-    {
-      "height": 60,
-      "id": "bb748ffa6c07bb37",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Verde",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 675
-    },
-    {
-      "color": "#ffffff",
-      "height": 60,
-      "id": "273598ae8a97cfe3",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Branco",
-      "type": "text",
-      "width": 260,
-      "x": 5740,
-      "y": 505
-    },
-    {
-      "height": 60,
-      "id": "57b85af42865ee42",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Snow",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
-      "y": 615
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "67e41645759c7600",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Turtleback",
-      "type": "text",
-      "width": 260,
-      "x": 6660,
-      "y": -180
-    },
-    {
-      "height": 60,
-      "id": "51f7a86447cc521f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Naunce",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 1025
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "04b16ff4cdbf614b",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Corarica",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": 1161
-    },
-    {
-      "height": 60,
-      "id": "f6d95dc395b57511",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Tribal",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 675
-    },
-    {
-      "height": 60,
-      "id": "5d2cc30ce0f159c5",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Agricultural",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 855
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "922dc56d73049b9e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Verra",
-      "type": "text",
-      "width": 260,
-      "x": 4790,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "8868a376b8ff306a",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Spiritual",
-      "type": "text",
-      "width": 260,
-      "x": 5230,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "05cb866d46c31bbd",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Rosa\n",
-      "type": "text",
-      "width": 260,
-      "x": 5690,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "ee33179ff604fae4",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Heat",
-      "type": "text",
-      "width": 260,
-      "x": 6180,
-      "y": -180
+      "x": -240,
+      "y": 400
     }
   ]
 }
