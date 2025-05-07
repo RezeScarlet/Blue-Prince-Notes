@@ -21,13 +21,13 @@ Last word Yenna, First word Lune
 - [x] Entrar na Sala 46 (denovo)
 - [x] Abrir a porta vermelha no caminho para a alavanca norte da Antechamber
 - [ ] Abrir as 8 portas ao lado da alavanca norte da Antechamber
-	- [x] 1 -> Orinda Resolvido
-	- [x] 2 -> Fenn Resolvido
-	- [x] 3 -> Eraja
-	- [ ] 4
+	- [x] 1 -> Orinda
+	- [x] 2 -> Fenn
+	- [x] 3 -> Eraja 
+	- [x] 4 -> Arch Aries
 	- [ ] 5
 	- [ ] 6
-	- [x] 7 Verra Resolvido
+	- [x] 7 Verra
 	- [ ] 8
 - [x] Criar todos os itens
 	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
