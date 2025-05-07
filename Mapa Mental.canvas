@@ -487,17 +487,6 @@
       "y": 720
     },
     {
-      "file": "Classroom/Geografia/03.png",
-      "height": 226,
-      "id": "f2f8e25e670bb50d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3240,
-      "y": 1226
-    },
-    {
       "height": 103,
       "id": "81de64e5784e0373",
       "styleAttributes": {
@@ -519,6 +508,17 @@
       "width": 400,
       "x": 3480,
       "y": 440
+    },
+    {
+      "file": "Classroom/Geografia/03.png",
+      "height": 226,
+      "id": "f2f8e25e670bb50d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3240,
+      "y": 1226
     },
     {
       "file": "Notas (Nossas)/Pasted image 20250425174650.png",
