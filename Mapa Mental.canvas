@@ -306,43 +306,13 @@
       "toSide": "left"
     },
     {
-      "color": "1",
-      "fromNode": "5d2cc30ce0f159c5",
-      "fromSide": "right",
-      "id": "6eff47f864bc7ae3",
-      "styleAttributes": {
-      },
-      "toNode": "75d6f84f7043b775",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "2528d6f309c18df7",
-      "fromSide": "right",
-      "id": "a2ec403ce17e73d5",
-      "styleAttributes": {
-      },
-      "toNode": "76c4879d65bbd049",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "51f7a86447cc521f",
-      "fromSide": "right",
-      "id": "e32358ee9cc17ed4",
-      "styleAttributes": {
-      },
-      "toNode": "2528d6f309c18df7",
-      "toSide": "left"
-    },
-    {
       "color": "2",
       "fromNode": "04b16ff4cdbf614b",
       "fromSide": "right",
       "id": "54ec00023c3ff31a",
       "styleAttributes": {
       },
-      "toNode": "377dfd08b808354d",
+      "toNode": "2528d6f309c18df7",
       "toSide": "left"
     },
     {
@@ -366,6 +336,7 @@
       "toSide": "left"
     },
     {
+      "color": "4",
       "fromNode": "f6d95dc395b57511",
       "fromSide": "right",
       "id": "610f0a98e0cbcb1e",
@@ -471,6 +442,26 @@
       },
       "toNode": "3ae04f0412735109",
       "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "2528d6f309c18df7",
+      "fromSide": "right",
+      "id": "ca24c2f21646e0de",
+      "styleAttributes": {
+      },
+      "toNode": "377dfd08b808354d",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "51f7a86447cc521f",
+      "fromSide": "right",
+      "id": "dce108c2bff3e324",
+      "styleAttributes": {
+      },
+      "toNode": "f6d95dc395b57511",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -634,6 +625,122 @@
       "y": -1620
     },
     {
+      "file": "Music Sheets/4.png",
+      "height": 226,
+      "id": "a0897c250f1e303e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -1060
+    },
+    {
+      "height": 60,
+      "id": "c003ea1e274b8268",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": " Find among the white trees under two stones",
+      "type": "text",
+      "width": 272,
+      "x": 828,
+      "y": -509
+    },
+    {
+      "file": "Music Sheets/3.png",
+      "height": 226,
+      "id": "22a861f47fcf2056",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": -1060
+    },
+    {
+      "file": "Music Sheets/8.png",
+      "height": 226,
+      "id": "525e081413ca7b50",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/7.png",
+      "height": 226,
+      "id": "e9ea0ac916fcb6d0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": -794
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "db61e387196e1486",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Sala nova: Conservatory",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": -509
+    },
+    {
+      "file": "Music Sheets/5.png",
+      "height": 226,
+      "id": "5ac2660fd0fe593a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -794
+    },
+    {
+      "file": "Music Sheets/6.png",
+      "height": 226,
+      "id": "aebbad9031de375b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": -794
+    },
+    {
+      "file": "Salas/Room_46/Room46_7.png",
+      "height": 600,
+      "id": "da0ef751929bf799",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1063,
+      "x": -643,
+      "y": -320
+    },
+    {
+      "height": 220,
+      "id": "3ae04f0412735109",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "- [x] Room 46\n- [ ] Vault\n- [x] Clock Tower\n- [x] Reservoir\n- [ ] Drawing Room, Office?\n- [x] Station\n- [x] Music Room\n- [ ] Last Door??",
+      "type": "text",
+      "width": 220,
+      "x": -221,
+      "y": 400
+    },
+    {
       "file": "E-Mails/Office_01-11-1993.png",
       "height": 226,
       "id": "af8b251e7d0c3892",
@@ -665,30 +772,6 @@
       "width": 400,
       "x": 2089,
       "y": -1079
-    },
-    {
-      "file": "Music Sheets/4.png",
-      "height": 226,
-      "id": "a0897c250f1e303e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1100,
-      "y": -1060
-    },
-    {
-      "height": 60,
-      "id": "c003ea1e274b8268",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": " Find among the white trees under two stones",
-      "type": "text",
-      "width": 272,
-      "x": 828,
-      "y": -509
     },
     {
       "file": "E-Mails/Office_08-10-1993.png",
@@ -736,37 +819,15 @@
       "y": -520
     },
     {
-      "file": "Music Sheets/3.png",
+      "file": "Cartas/Hovel_2.png",
       "height": 226,
-      "id": "22a861f47fcf2056",
+      "id": "40b7320fe6911e8d",
       "styleAttributes": {
       },
       "type": "file",
       "width": 400,
-      "x": 660,
-      "y": -1060
-    },
-    {
-      "file": "Music Sheets/8.png",
-      "height": 226,
-      "id": "525e081413ca7b50",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1100,
-      "y": -794
-    },
-    {
-      "file": "Music Sheets/7.png",
-      "height": 226,
-      "id": "e9ea0ac916fcb6d0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 660,
-      "y": -794
+      "x": -20,
+      "y": -1760
     },
     {
       "file": "Music Sheets/2.png",
@@ -780,20 +841,6 @@
       "y": -1060
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "db61e387196e1486",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "Sala nova: Conservatory",
-      "type": "text",
-      "width": 260,
-      "x": 500,
-      "y": -509
-    },
-    {
       "file": "Music Sheets/1.png",
       "height": 226,
       "id": "b676644ef7dcf71f",
@@ -803,52 +850,6 @@
       "width": 400,
       "x": -220,
       "y": -1060
-    },
-    {
-      "file": "Music Sheets/5.png",
-      "height": 226,
-      "id": "5ac2660fd0fe593a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -220,
-      "y": -794
-    },
-    {
-      "file": "Music Sheets/6.png",
-      "height": 226,
-      "id": "aebbad9031de375b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 220,
-      "y": -794
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "d0ada57c70088408",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Arch Aries",
-      "type": "text",
-      "width": 260,
-      "x": 4790,
-      "y": -865
-    },
-    {
-      "file": "Cartas/Hovel_2.png",
-      "height": 226,
-      "id": "40b7320fe6911e8d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -20,
-      "y": -1760
     },
     {
       "height": 60,
@@ -863,221 +864,68 @@
       "y": -1440
     },
     {
-      "file": "Salas/Classroom/Cor/3.png",
-      "height": 452,
-      "id": "0ca5eb308c611300",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": 7120,
-      "y": 256
-    },
-    {
-      "color": "6",
       "height": 60,
-      "id": "4332baa447b7eb2f",
+      "id": "57b85af42865ee42",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Rainy",
+      "text": "Snow",
       "type": "text",
       "width": 260,
       "x": 6230,
-      "y": -660
+      "y": 615
     },
     {
-      "height": 305,
-      "id": "9db665163e75a384",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Cada cor uma vez**\n- Azul: blueprint e lago\n- Vermelho: carrinho e hidrante\n- Verde: brócolis, lagarto\n- Laranja: abobora, Corarica\n- Roxo: uva e Erajan\n- Amarelo: banana Arch Aries",
-      "type": "text",
-      "width": 300,
-      "x": 7140,
-      "y": 720
-    },
-    {
+      "color": "2",
       "height": 60,
-      "id": "459b06c796d7e88c",
+      "id": "377dfd08b808354d",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Horseback",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 965
-    },
-    {
-      "height": 60,
-      "id": "75d6f84f7043b775",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Normal\n",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 955
-    },
-    {
-      "height": 60,
-      "id": "bb748ffa6c07bb37",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Verde",
+      "text": "Laranja",
       "type": "text",
       "width": 260,
       "x": 5740,
-      "y": 675
+      "y": 1161
     },
     {
-      "color": "#fb00ff",
       "height": 60,
-      "id": "922dc56d73049b9e",
+      "id": "c404f302aa7bdc28",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Verra",
-      "type": "text",
-      "width": 260,
-      "x": 4790,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "ee33179ff604fae4",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Heat",
-      "type": "text",
-      "width": 260,
-      "x": 6180,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "67e41645759c7600",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Turtleback",
-      "type": "text",
-      "width": 260,
-      "x": 6660,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "8868a376b8ff306a",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Spiritual",
-      "type": "text",
-      "width": 260,
-      "x": 5230,
-      "y": -180
-    },
-    {
-      "color": "#fb00ff",
-      "height": 60,
-      "id": "05cb866d46c31bbd",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Rosa\n",
-      "type": "text",
-      "width": 260,
-      "x": 5690,
-      "y": -180
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "1ab70bf9cbbae49b",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Foggy",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
-      "y": -465
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "b996dc236f60d08e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Train",
+      "text": "Aviation",
       "type": "text",
       "width": 260,
       "x": 6710,
-      "y": -660
+      "y": 1055
     },
     {
-      "color": "#000000",
       "height": 60,
-      "id": "103607ca6c7f2b7f",
+      "id": "2230e3e5340c0f8f",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Train",
+      "text": "Camels\n",
       "type": "text",
       "width": 260,
       "x": 6710,
-      "y": -365
+      "y": 1161
     },
     {
-      "color": "#000000",
       "height": 60,
-      "id": "9456de4bc7fc9501",
+      "id": "76c4879d65bbd049",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Orinda Aries",
+      "text": "Windy",
       "type": "text",
       "width": 260,
-      "x": 4790,
-      "y": -365
+      "x": 6240,
+      "y": 1055
     },
     {
-      "color": "1",
-      "height": 60,
-      "id": "c4bfb73d99e16921",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fenn Aries\n",
-      "type": "text",
-      "width": 260,
-      "x": 4790,
-      "y": -465
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "0539cbd3837534e3",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Eraja",
-      "type": "text",
-      "width": 260,
-      "x": 4800,
-      "y": -660
-    },
-    {
+      "color": "4",
       "height": 60,
       "id": "51f7a86447cc521f",
       "styleAttributes": {
@@ -1101,32 +949,6 @@
       "width": 260,
       "x": 4800,
       "y": 1161
-    },
-    {
-      "color": "#000000",
-      "height": 60,
-      "id": "14adebbe2b78b58d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Preto",
-      "type": "text",
-      "width": 260,
-      "x": 5730,
-      "y": -365
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "309a2490bf616752",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Vermelho",
-      "type": "text",
-      "width": 260,
-      "x": 5730,
-      "y": -465
     },
     {
       "file": "Livros/Realm & Rune/06.jpg",
@@ -1197,40 +1019,15 @@
       "y": 440
     },
     {
-      "height": 60,
-      "id": "f6d95dc395b57511",
+      "file": "Classroom/Geografia/11.png",
+      "height": 226,
+      "id": "97f8024e8cdfc34e",
       "styleAttributes": {
-        "textAlign": "center"
       },
-      "text": "Tribal",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 675
-    },
-    {
-      "height": 60,
-      "id": "5d2cc30ce0f159c5",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Agricultural",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": 855
-    },
-    {
-      "height": 60,
-      "id": "2528d6f309c18df7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Academic\n",
-      "type": "text",
-      "width": 260,
-      "x": 5270,
-      "y": 1025
+      "type": "file",
+      "width": 400,
+      "x": 3480,
+      "y": 720
     },
     {
       "color": "#ffffff",
@@ -1302,17 +1099,6 @@
       "y": 180
     },
     {
-      "file": "Classroom/Geografia/11.png",
-      "height": 226,
-      "id": "97f8024e8cdfc34e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3480,
-      "y": 720
-    },
-    {
       "file": "Classroom/Geografia/12.png",
       "height": 226,
       "id": "a48f916beac9dd66",
@@ -1335,29 +1121,67 @@
       "y": 1226
     },
     {
+      "file": "Salas/Classroom/Cor/3.png",
+      "height": 452,
+      "id": "0ca5eb308c611300",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": 7120,
+      "y": 256
+    },
+    {
+      "color": "6",
       "height": 60,
-      "id": "57b85af42865ee42",
+      "id": "4332baa447b7eb2f",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Snow",
+      "text": "Rainy",
       "type": "text",
       "width": 260,
       "x": 6230,
-      "y": 615
+      "y": -660
     },
     {
-      "color": "2",
+      "color": "#fb00ff",
       "height": 60,
-      "id": "377dfd08b808354d",
+      "id": "05cb866d46c31bbd",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Laranja",
+      "text": "Rosa\n",
       "type": "text",
       "width": 260,
-      "x": 5740,
-      "y": 1161
+      "x": 5690,
+      "y": -180
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b996dc236f60d08e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -660
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "309a2490bf616752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vermelho",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -465
     },
     {
       "color": "#ffffff",
@@ -1371,42 +1195,6 @@
       "width": 260,
       "x": 6710,
       "y": 505
-    },
-    {
-      "height": 60,
-      "id": "c404f302aa7bdc28",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Aviation",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1055
-    },
-    {
-      "height": 60,
-      "id": "2230e3e5340c0f8f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Camels\n",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": 1161
-    },
-    {
-      "height": 60,
-      "id": "76c4879d65bbd049",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Windy",
-      "type": "text",
-      "width": 260,
-      "x": 6240,
-      "y": 1055
     },
     {
       "color": "#ffffff",
@@ -1424,19 +1212,6 @@
     {
       "color": "#000000",
       "height": 60,
-      "id": "7f57f93115d97a20",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Foggy",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
-      "y": -365
-    },
-    {
-      "color": "#000000",
-      "height": 60,
       "id": "7541e5cfe8daa969",
       "styleAttributes": {
         "textAlign": "center"
@@ -1445,6 +1220,110 @@
       "type": "text",
       "width": 260,
       "x": 5270,
+      "y": -365
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "4b9f518e3e2e8169",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Stormy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -865
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "de6b97708b4babad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -865
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "ee33179ff604fae4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Heat",
+      "type": "text",
+      "width": 260,
+      "x": 6180,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "67e41645759c7600",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Turtleback",
+      "type": "text",
+      "width": 260,
+      "x": 6660,
+      "y": -180
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "1ab70bf9cbbae49b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -465
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "103607ca6c7f2b7f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preto",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "7f57f93115d97a20",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
       "y": -365
     },
     {
@@ -1474,6 +1353,120 @@
       "y": -465
     },
     {
+      "height": 305,
+      "id": "9db665163e75a384",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cada cor uma vez**\n- Azul: blueprint e lago\n- Vermelho: carrinho e hidrante\n- Verde: brócolis, lagarto\n- Laranja: abobora, Corarica\n- Roxo: uva e Erajan\n- Amarelo: banana Arch Aries",
+      "type": "text",
+      "width": 300,
+      "x": 7140,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "459b06c796d7e88c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Horseback",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 965
+    },
+    {
+      "height": 60,
+      "id": "75d6f84f7043b775",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Normal\n",
+      "type": "text",
+      "width": 260,
+      "x": 6240,
+      "y": 955
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "d0ada57c70088408",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arch Aries",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -865
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "922dc56d73049b9e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verra",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "8868a376b8ff306a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Spiritual",
+      "type": "text",
+      "width": 260,
+      "x": 5230,
+      "y": -180
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "9456de4bc7fc9501",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Orinda Aries",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -365
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "c4bfb73d99e16921",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fenn Aries\n",
+      "type": "text",
+      "width": 260,
+      "x": 4790,
+      "y": -465
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0539cbd3837534e3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Eraja",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": -660
+    },
+    {
       "color": "3",
       "height": 60,
       "id": "61f7952a4e7081cc",
@@ -1484,19 +1477,6 @@
       "type": "text",
       "width": 260,
       "x": 5730,
-      "y": -865
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "4b9f518e3e2e8169",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Stormy",
-      "type": "text",
-      "width": 260,
-      "x": 6230,
       "y": -865
     },
     {
@@ -1511,19 +1491,6 @@
       "width": 260,
       "x": 5740,
       "y": -660
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "de6b97708b4babad",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Train",
-      "type": "text",
-      "width": 260,
-      "x": 6710,
-      "y": -865
     },
     {
       "color": "6",
@@ -1552,25 +1519,55 @@
       "y": -865
     },
     {
-      "file": "Salas/Room_46/Room46_7.png",
-      "height": 600,
-      "id": "da0ef751929bf799",
-      "type": "file",
-      "width": 1063,
-      "x": -643,
-      "y": -320
-    },
-    {
-      "height": 220,
-      "id": "3ae04f0412735109",
+      "color": "2",
+      "height": 60,
+      "id": "2528d6f309c18df7",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "- [x] Room 46\n- [ ] Vault\n- [x] Clock Tower\n- [x] Reservoir\n- [ ] Drawing Room, Office?\n- [x] Station\n- [x] Music Room\n- [ ] Last Door??",
+      "text": "Academic\n",
       "type": "text",
-      "width": 220,
-      "x": -221,
-      "y": 400
+      "width": 260,
+      "x": 5280,
+      "y": 1161
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "f6d95dc395b57511",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tribal",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 1025
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "bb748ffa6c07bb37",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verde",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1025
+    },
+    {
+      "height": 60,
+      "id": "5d2cc30ce0f159c5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Agricultural",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 505
     }
   ]
 }
