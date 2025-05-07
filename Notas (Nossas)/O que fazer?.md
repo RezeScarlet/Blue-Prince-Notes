@@ -27,7 +27,7 @@ Last word Yenna, First word Lune
 	- [ ] 4
 	- [ ] 5
 	- [ ] 6
-	- [x] 7 Verra Não Resolvido
+	- [x] 7 Verra Resolvido
 	- [ ] 8
 - [x] Criar todos os itens
 	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
