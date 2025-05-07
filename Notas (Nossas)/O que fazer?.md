@@ -23,12 +23,12 @@ Last word Yenna, First word Lune
 - [ ] Abrir as 8 portas ao lado da alavanca norte da Antechamber
 	- [x] 1 -> Orinda
 	- [x] 2 -> Fenn
-	- [x] 3 -> Eraja 
-	- [x] 4 -> Arch Aries
-	- [ ] 5
-	- [ ] 6
+	- [x] 3 -> Arch Aries
+	- [x] 4 -> Eraja 
+	- [ ] 5 -> Nuance
+	- [ ] 6 -> Corarica
 	- [x] 7 Verra
-	- [ ] 8
+	- [ ] 8 -> Mora Jai
 - [x] Criar todos os itens
 	- [x] Marreta punheteira (Sledgehammer + Battery Pack + Broken Lever)
 	- [x] Tocha Gamer (Metal Detector + Magnifying Glass)
@@ -36,10 +36,11 @@ Last word Yenna, First word Lune
 	- [x] Shovel + Battery Pack + Broken Lever
 	- [x] Electro Magnet: Compass + Baterry
 - [ ] Blackbridge Grotto
-	- [ ] Admin Key
-	- [ ] Pecinha eletrônica
+	- [x] Admin Key -> MoorR
+	- [x] Pecinha eletrônica -> Pegamos uma na Entrance
+	- [ ] Pecinha eletrônica Library?
 	- [ ] ![[Blackbridge_Grotto_1.png]]
-- [ ] Ladyship's Diary
+- [x] Ladyship's Diary
 	- [ ] Como que dorme
 	- [ ] ![[9.jpg]] Interagir com porta invisível/secreta???
 	- [x] ESTOURAR A PORRA DO TRADE
