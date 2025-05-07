@@ -8,7 +8,7 @@ Last word Yenna, First word Lune
 	 - [ ] Mechanarium
 	 - [x] Vault
  - [ ] Chamber of Mirrors
- - [ ] Tumba tem adição nova...
+ - [ ] Estatuas Tumba
  - [x] Água no reservoir
  - [x] Água na kitchen
  - [ ] Final Exam (Todas Classroom + 9ª Classroom)
@@ -17,13 +17,13 @@ Last word Yenna, First word Lune
 	- [x] Greenhouse;
 	- [x] Secret Garden;
 	- [x] Basement pelo elevador do Foundation;
-	- [ ] Weight Room;
+	- [x] Weight Room;
 - [x] Entrar na Sala 46 (denovo)
 - [x] Abrir a porta vermelha no caminho para a alavanca norte da Antechamber
 - [ ] Abrir as 8 portas ao lado da alavanca norte da Antechamber
 	- [x] 1 -> Orinda Resolvido
 	- [x] 2 -> Fenn Resolvido
-	- [ ] 3 -> Eraja
+	- [x] 3 -> Eraja
 	- [ ] 4
 	- [ ] 5
 	- [ ] 6
