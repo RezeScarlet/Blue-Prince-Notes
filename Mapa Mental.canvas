@@ -286,63 +286,13 @@
       "toSide": "left"
     },
     {
-      "color": "1",
-      "fromNode": "76c4879d65bbd049",
-      "fromSide": "right",
-      "id": "10d7f5d4ec11e53f",
-      "styleAttributes": {
-      },
-      "toNode": "c404f302aa7bdc28",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "75d6f84f7043b775",
-      "fromSide": "right",
-      "id": "46d8a95406a595de",
-      "styleAttributes": {
-      },
-      "toNode": "459b06c796d7e88c",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "5d2cc30ce0f159c5",
-      "fromSide": "right",
-      "id": "6eff47f864bc7ae3",
-      "styleAttributes": {
-      },
-      "toNode": "75d6f84f7043b775",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "2528d6f309c18df7",
-      "fromSide": "right",
-      "id": "a2ec403ce17e73d5",
-      "styleAttributes": {
-      },
-      "toNode": "76c4879d65bbd049",
-      "toSide": "left"
-    },
-    {
-      "color": "1",
-      "fromNode": "51f7a86447cc521f",
-      "fromSide": "right",
-      "id": "e32358ee9cc17ed4",
-      "styleAttributes": {
-      },
-      "toNode": "2528d6f309c18df7",
-      "toSide": "left"
-    },
-    {
       "color": "2",
       "fromNode": "04b16ff4cdbf614b",
       "fromSide": "right",
       "id": "54ec00023c3ff31a",
       "styleAttributes": {
       },
-      "toNode": "377dfd08b808354d",
+      "toNode": "2528d6f309c18df7",
       "toSide": "left"
     },
     {
@@ -352,20 +302,11 @@
       "id": "97e3b28107cc0f12",
       "styleAttributes": {
       },
-      "toNode": "273598ae8a97cfe3",
+      "toNode": "5d2cc30ce0f159c5",
       "toSide": "left"
     },
     {
-      "color": "#ffffff",
-      "fromNode": "273598ae8a97cfe3",
-      "fromSide": "right",
-      "id": "247a1d0e1e54c3c6",
-      "styleAttributes": {
-      },
-      "toNode": "3244c42b095d89a4",
-      "toSide": "left"
-    },
-    {
+      "color": "4",
       "fromNode": "f6d95dc395b57511",
       "fromSide": "right",
       "id": "610f0a98e0cbcb1e",
@@ -471,6 +412,96 @@
       },
       "toNode": "3ae04f0412735109",
       "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "2528d6f309c18df7",
+      "fromSide": "right",
+      "id": "ca24c2f21646e0de",
+      "styleAttributes": {
+      },
+      "toNode": "377dfd08b808354d",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "51f7a86447cc521f",
+      "fromSide": "right",
+      "id": "dce108c2bff3e324",
+      "styleAttributes": {
+      },
+      "toNode": "f6d95dc395b57511",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "5d2cc30ce0f159c5",
+      "fromSide": "right",
+      "id": "7f0bd9715c5c5a1c",
+      "styleAttributes": {
+      },
+      "toNode": "273598ae8a97cfe3",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "273598ae8a97cfe3",
+      "fromSide": "right",
+      "id": "cc514b5819e50aaf",
+      "styleAttributes": {
+      },
+      "toNode": "75d6f84f7043b775",
+      "toSide": "left"
+    },
+    {
+      "color": "#ffffff",
+      "fromNode": "75d6f84f7043b775",
+      "fromSide": "right",
+      "id": "d1a14c6a643b3315",
+      "styleAttributes": {
+      },
+      "toNode": "3244c42b095d89a4",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "bb748ffa6c07bb37",
+      "fromSide": "right",
+      "id": "c8a2c73ee7038743",
+      "styleAttributes": {
+      },
+      "toNode": "76c4879d65bbd049",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "76c4879d65bbd049",
+      "fromSide": "right",
+      "id": "a6e974b9a9fd2d20",
+      "styleAttributes": {
+      },
+      "toNode": "c404f302aa7bdc28",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "377dfd08b808354d",
+      "fromSide": "right",
+      "id": "8e51744710c93abc",
+      "styleAttributes": {
+      },
+      "toNode": "57b85af42865ee42",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "57b85af42865ee42",
+      "fromSide": "right",
+      "id": "e83ad1d83d4365ee",
+      "styleAttributes": {
+      },
+      "toNode": "459b06c796d7e88c",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -498,19 +529,6 @@
       "y": 240
     },
     {
-      "color": "3",
-      "height": 720,
-      "id": "fb9cd2c8baff1728",
-      "label": "Music Sheets",
-      "styleAttributes": {
-        "border": null
-      },
-      "type": "group",
-      "width": 1840,
-      "x": -280,
-      "y": -1120
-    },
-    {
       "height": 1550,
       "id": "a46471446db23ebe",
       "label": "Cores",
@@ -534,17 +552,6 @@
     },
     {
       "height": 1550,
-      "id": "f67931fd047446ae",
-      "label": "Transporte",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 400,
-      "x": 6640,
-      "y": 325
-    },
-    {
-      "height": 1550,
       "id": "8430a3e3c76990d2",
       "label": "Sociedade",
       "styleAttributes": {
@@ -564,6 +571,30 @@
       "width": 400,
       "x": 4720,
       "y": 330
+    },
+    {
+      "color": "3",
+      "height": 720,
+      "id": "fb9cd2c8baff1728",
+      "label": "Music Sheets",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "group",
+      "width": 1840,
+      "x": -280,
+      "y": -1120
+    },
+    {
+      "height": 1550,
+      "id": "f67931fd047446ae",
+      "label": "Transporte",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 400,
+      "x": 6640,
+      "y": 325
     },
     {
       "color": "4",
@@ -873,6 +904,7 @@
       "y": -1440
     },
     {
+<<<<<<< HEAD
       "height": 60,
       "id": "57b85af42865ee42",
       "styleAttributes": {
@@ -959,6 +991,8 @@
       "y": 1161
     },
     {
+=======
+>>>>>>> origin/main
       "file": "Livros/Realm & Rune/06.jpg",
       "height": 226,
       "id": "aac32dd6b6f5f78b",
@@ -1036,6 +1070,7 @@
       "width": 400,
       "x": 3480,
       "y": 720
+<<<<<<< HEAD
     },
     {
       "color": "#ffffff",
@@ -1049,6 +1084,8 @@
       "width": 260,
       "x": 4800,
       "y": 505
+=======
+>>>>>>> origin/main
     },
     {
       "file": "Notas (Nossas)/Pasted image 20250425174650.png",
@@ -1205,6 +1242,7 @@
       "y": 505
     },
     {
+<<<<<<< HEAD
       "color": "#ffffff",
       "height": 60,
       "id": "273598ae8a97cfe3",
@@ -1216,10 +1254,115 @@
       "width": 260,
       "x": 5740,
       "y": 505
+=======
+      "color": "#000000",
+      "height": 60,
+      "id": "7541e5cfe8daa969",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Metropolitan",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": -365
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "4b9f518e3e2e8169",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Stormy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -865
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "de6b97708b4babad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -865
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "ee33179ff604fae4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Heat",
+      "type": "text",
+      "width": 260,
+      "x": 6180,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "67e41645759c7600",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Turtleback",
+      "type": "text",
+      "width": 260,
+      "x": 6660,
+      "y": -180
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "1ab70bf9cbbae49b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -465
     },
     {
       "color": "#000000",
       "height": 60,
+      "id": "103607ca6c7f2b7f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preto",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -365
+>>>>>>> origin/main
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+<<<<<<< HEAD
       "id": "7541e5cfe8daa969",
       "styleAttributes": {
         "textAlign": "center"
@@ -1336,6 +1479,8 @@
     {
       "color": "#000000",
       "height": 60,
+=======
+>>>>>>> origin/main
       "id": "7f57f93115d97a20",
       "styleAttributes": {
         "textAlign": "center"
@@ -1385,6 +1530,7 @@
       "y": 720
     },
     {
+<<<<<<< HEAD
       "height": 60,
       "id": "459b06c796d7e88c",
       "styleAttributes": {
@@ -1445,6 +1591,8 @@
       "y": 1025
     },
     {
+=======
+>>>>>>> origin/main
       "color": "3",
       "height": 60,
       "id": "d0ada57c70088408",
@@ -1573,6 +1721,203 @@
       "width": 260,
       "x": 5270,
       "y": -865
+<<<<<<< HEAD
+=======
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c404f302aa7bdc28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Aviation",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1025
+    },
+    {
+      "height": 60,
+      "id": "2230e3e5340c0f8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Camels\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1440
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "459b06c796d7e88c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Horseback",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1161
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "377dfd08b808354d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Laranja",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1161
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "273598ae8a97cfe3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Branco",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 505
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "2528d6f309c18df7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Academic\n",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 1161
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "f6d95dc395b57511",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tribal",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 1025
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "bb748ffa6c07bb37",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verde",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1025
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "75d6f84f7043b775",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Normal\n",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 505
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "76c4879d65bbd049",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Windy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 1025
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "57b85af42865ee42",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Snow",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 1161
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "51f7a86447cc521f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Naunce",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 1025
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "04b16ff4cdbf614b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Corarica",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 1161
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "6b1ce6902e560841",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mora  Jai",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 505
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "5d2cc30ce0f159c5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Agricultural",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 505
+>>>>>>> origin/main
     }
   ]
 }
