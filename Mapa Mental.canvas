@@ -856,6 +856,7 @@
       "y": -1440
     },
     {
+<<<<<<< HEAD
       "color": "4",
       "height": 60,
       "id": "db61e387196e1486",
@@ -905,6 +906,70 @@
     },
     {
       "color": "4",
+=======
+<<<<<<< HEAD
+      "height": 60,
+      "id": "57b85af42865ee42",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Snow",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": 615
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "377dfd08b808354d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Laranja",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 1161
+    },
+    {
+      "height": 60,
+      "id": "c404f302aa7bdc28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Aviation",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1055
+    },
+    {
+      "height": 60,
+      "id": "2230e3e5340c0f8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Camels\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 1161
+    },
+    {
+      "height": 60,
+      "id": "76c4879d65bbd049",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Windy",
+      "type": "text",
+      "width": 260,
+      "x": 6240,
+      "y": 1055
+    },
+    {
+>>>>>>> origin/main
       "height": 60,
       "id": "51f7a86447cc521f",
       "styleAttributes": {
@@ -930,6 +995,7 @@
       "y": 1161
     },
     {
+<<<<<<< HEAD
       "color": "#ffffff",
       "height": 60,
       "id": "6b1ce6902e560841",
@@ -956,6 +1022,10 @@
       "y": 505
     },
     {
+=======
+=======
+>>>>>>> origin/main
+>>>>>>> origin/main
       "file": "Livros/Realm & Rune/06.jpg",
       "height": 226,
       "id": "aac32dd6b6f5f78b",
@@ -1033,6 +1103,22 @@
       "width": 400,
       "x": 3480,
       "y": 720
+<<<<<<< HEAD
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "6b1ce6902e560841",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mora  Jai",
+      "type": "text",
+      "width": 260,
+      "x": 4800,
+      "y": 505
+=======
+>>>>>>> origin/main
     },
     {
       "file": "Notas (Nossas)/Pasted image 20250425174650.png",
@@ -1102,6 +1188,361 @@
       "y": 1226
     },
     {
+<<<<<<< HEAD
+=======
+      "file": "Salas/Classroom/Cor/3.png",
+      "height": 452,
+      "id": "0ca5eb308c611300",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": 7120,
+      "y": 256
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4332baa447b7eb2f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rainy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -660
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "05cb866d46c31bbd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rosa\n",
+      "type": "text",
+      "width": 260,
+      "x": 5690,
+      "y": -180
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b996dc236f60d08e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -660
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "309a2490bf616752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vermelho",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -465
+    },
+    {
+      "color": "#ffffff",
+      "height": 60,
+      "id": "3244c42b095d89a4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Naval",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 505
+    },
+    {
+<<<<<<< HEAD
+      "color": "#ffffff",
+      "height": 60,
+      "id": "273598ae8a97cfe3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Branco",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 505
+=======
+      "color": "#000000",
+      "height": 60,
+      "id": "7541e5cfe8daa969",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Metropolitan",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": -365
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "4b9f518e3e2e8169",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Stormy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -865
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "de6b97708b4babad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -865
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "ee33179ff604fae4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Heat",
+      "type": "text",
+      "width": 260,
+      "x": 6180,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "67e41645759c7600",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Turtleback",
+      "type": "text",
+      "width": 260,
+      "x": 6660,
+      "y": -180
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "1ab70bf9cbbae49b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -465
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "103607ca6c7f2b7f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preto",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -365
+>>>>>>> origin/main
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+<<<<<<< HEAD
+      "id": "7541e5cfe8daa969",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Metropolitan",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": -365
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "4b9f518e3e2e8169",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Stormy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -865
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "de6b97708b4babad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -865
+    },
+    {
+      "height": 60,
+      "id": "bb748ffa6c07bb37",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verde",
+      "type": "text",
+      "width": 260,
+      "x": 5740,
+      "y": 675
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "ee33179ff604fae4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Heat",
+      "type": "text",
+      "width": 260,
+      "x": 6180,
+      "y": -180
+    },
+    {
+      "color": "#fb00ff",
+      "height": 60,
+      "id": "67e41645759c7600",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Turtleback",
+      "type": "text",
+      "width": 260,
+      "x": 6660,
+      "y": -180
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "1ab70bf9cbbae49b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -465
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "103607ca6c7f2b7f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Train",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+      "id": "14adebbe2b78b58d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Preto",
+      "type": "text",
+      "width": 260,
+      "x": 5730,
+      "y": -365
+    },
+    {
+      "color": "#000000",
+      "height": 60,
+=======
+>>>>>>> origin/main
+      "id": "7f57f93115d97a20",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Foggy",
+      "type": "text",
+      "width": 260,
+      "x": 6230,
+      "y": -365
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "32a56745728fa7c9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Martial\n",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": -465
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "efd3124b9bafd6e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roads\n",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": -465
+    },
+    {
+>>>>>>> origin/main
       "height": 305,
       "id": "9db665163e75a384",
       "styleAttributes": {
@@ -1114,9 +1555,78 @@
       "y": 720
     },
     {
+<<<<<<< HEAD
       "file": "Classroom/Geografia/07.png",
       "height": 226,
       "id": "8f423f1b77c3041c",
+=======
+<<<<<<< HEAD
+      "height": 60,
+      "id": "459b06c796d7e88c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Horseback",
+      "type": "text",
+      "width": 260,
+      "x": 6710,
+      "y": 965
+    },
+    {
+      "height": 60,
+      "id": "75d6f84f7043b775",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Normal\n",
+      "type": "text",
+      "width": 260,
+      "x": 6240,
+      "y": 955
+    },
+    {
+      "height": 60,
+      "id": "f6d95dc395b57511",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tribal",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 675
+    },
+    {
+      "height": 60,
+      "id": "5d2cc30ce0f159c5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Agricultural",
+      "type": "text",
+      "width": 260,
+      "x": 5280,
+      "y": 855
+    },
+    {
+      "height": 60,
+      "id": "2528d6f309c18df7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Academic\n",
+      "type": "text",
+      "width": 260,
+      "x": 5270,
+      "y": 1025
+    },
+    {
+=======
+>>>>>>> origin/main
+      "color": "3",
+      "height": 60,
+      "id": "d0ada57c70088408",
+>>>>>>> origin/main
       "styleAttributes": {
       },
       "type": "file",
@@ -1420,6 +1930,8 @@
       "width": 260,
       "x": 5270,
       "y": -865
+<<<<<<< HEAD
+=======
     },
     {
       "color": "#ffffff",
@@ -1612,8 +2124,14 @@
       "text": "Arch Aries",
       "type": "text",
       "width": 260,
+<<<<<<< HEAD
       "x": 4790,
       "y": -865
+=======
+      "x": 5280,
+      "y": 505
+>>>>>>> origin/main
+>>>>>>> origin/main
     }
   ]
 }
